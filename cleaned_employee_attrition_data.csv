@@ -1,0 +1,1001 @@
+EmployeeID,Age,Attrition,BusinessTravel,Department,DistanceFromHome,Education,EducationField,Gender,JobRole,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,TotalWorkingYears,YearsAtCompany,JobSatisfaction,WorkLifeBalance,JobInvolvement,TenureCategory,SalaryCategory
+1,41,1,Rarely,Sales,1,2,"Life Sciences",F,"Sales Executive",S,5993,8,1,8,6,4,1,3,Medium-Term,Medium
+2,49,0,Frequently,"Research & Development",8,1,"Life Sciences",M,"Research Scientist",M,5130,1,0,10,10,2,3,2,Long-Term,Medium
+3,37,1,Rarely,"Research & Development",2,2,Other,M,"Laboratory Technician",S,2090,6,1,7,0,3,3,2,Short-Term,Low
+4,33,0,Frequently,"Research & Development",3,4,"Life Sciences",F,"Research Scientist",M,2909,1,1,8,8,3,3,3,Long-Term,Low
+5,27,0,Rarely,"Research & Development",2,1,Medical,M,"Laboratory Technician",M,3468,9,0,6,2,2,3,3,Short-Term,Medium
+6,32,0,Frequently,"Research & Development",2,2,"Life Sciences",M,"Laboratory Technician",S,3068,0,0,8,7,4,2,3,Medium-Term,Medium
+7,59,0,Rarely,"Research & Development",3,3,Medical,F,"Laboratory Technician",M,2670,4,1,12,1,1,2,4,Short-Term,Low
+8,30,0,Rarely,"Research & Development",24,1,"Life Sciences",M,"Laboratory Technician",D,2693,1,0,1,1,3,3,3,Short-Term,Low
+9,38,0,Frequently,"Research & Development",23,3,"Life Sciences",M,"Manufacturing Director",S,9526,0,0,10,9,3,3,2,Long-Term,High
+10,36,0,Rarely,"Research & Development",27,3,Medical,M,"Healthcare Representative",M,5237,6,0,17,7,3,2,3,Medium-Term,Medium
+11,35,0,Rarely,"Research & Development",16,3,Medical,M,"Laboratory Technician",M,2426,0,0,6,5,2,3,4,Medium-Term,Low
+12,29,0,Rarely,"Research & Development",15,2,"Life Sciences",F,"Laboratory Technician",S,4193,0,1,10,9,3,3,2,Long-Term,Medium
+13,31,0,Rarely,"Research & Development",26,1,"Life Sciences",M,"Research Scientist",D,2911,1,0,5,5,3,2,3,Medium-Term,Low
+14,34,0,Rarely,"Research & Development",19,2,Medical,M,"Laboratory Technician",D,2661,0,0,3,2,4,3,3,Short-Term,Low
+15,28,1,Rarely,"Research & Development",24,3,"Life Sciences",M,"Laboratory Technician",S,2028,5,1,6,4,3,3,2,Medium-Term,Low
+16,29,0,Rarely,"Research & Development",21,4,"Life Sciences",F,"Manufacturing Director",D,9980,1,0,10,10,1,3,4,Long-Term,High
+17,32,0,Rarely,"Research & Development",5,2,"Life Sciences",M,"Research Scientist",D,3298,0,1,7,6,2,2,4,Medium-Term,Medium
+18,22,0,"No Travel","Research & Development",16,2,Medical,M,"Laboratory Technician",D,2935,1,1,1,1,4,2,4,Short-Term,Low
+19,53,0,Rarely,Sales,2,4,"Life Sciences",F,Manager,M,15427,2,0,31,25,4,3,2,Long-Term,High
+20,38,0,Rarely,"Research & Development",2,3,"Life Sciences",M,"Research Scientist",S,3944,5,1,6,3,4,3,3,Medium-Term,Medium
+21,24,0,"No Travel","Research & Development",11,2,Other,F,"Manufacturing Director",D,4011,0,0,5,4,3,2,4,Medium-Term,Medium
+22,36,1,Rarely,Sales,9,4,"Life Sciences",M,"Sales Representative",S,3407,7,0,10,5,1,3,2,Medium-Term,Medium
+23,34,0,Rarely,"Research & Development",7,4,"Life Sciences",F,"Research Director",S,11994,0,0,13,12,2,3,3,Long-Term,High
+24,21,0,Rarely,"Research & Development",15,2,"Life Sciences",M,"Research Scientist",S,1232,1,0,0,0,4,3,3,Short-Term,Low
+25,34,1,Rarely,"Research & Development",6,1,Medical,M,"Research Scientist",S,2960,2,0,8,4,1,3,3,Medium-Term,Low
+26,53,0,Rarely,"Research & Development",5,3,Other,F,Manager,D,19094,4,0,26,14,3,2,3,Long-Term,High
+27,32,1,Frequently,"Research & Development",16,1,"Life Sciences",F,"Research Scientist",S,3919,1,1,10,10,1,3,1,Long-Term,Medium
+28,42,0,Rarely,Sales,8,4,Marketing,M,"Sales Executive",M,6825,0,0,10,9,2,3,3,Long-Term,Medium
+29,44,0,Rarely,"Research & Development",7,4,Medical,F,"Healthcare Representative",M,10248,3,0,24,22,4,3,2,Long-Term,High
+30,46,0,Rarely,Sales,2,4,Marketing,F,Manager,S,18947,3,0,22,2,1,2,3,Short-Term,High
+31,33,0,Rarely,"Research & Development",2,3,Medical,M,"Laboratory Technician",S,2496,4,0,7,1,4,3,3,Short-Term,Low
+32,44,0,Rarely,"Research & Development",10,4,Other,M,"Healthcare Representative",M,6465,2,1,9,4,4,4,3,Medium-Term,Medium
+33,30,0,Rarely,"Research & Development",9,2,Medical,M,"Laboratory Technician",S,2206,1,0,10,10,3,3,2,Long-Term,Low
+34,39,1,Rarely,Sales,5,3,"Technical Degree",M,"Sales Representative",M,2086,3,0,19,1,4,4,3,Short-Term,Low
+35,24,1,Rarely,"Research & Development",1,3,Medical,M,"Research Scientist",M,2293,2,1,6,2,4,2,3,Short-Term,Low
+36,43,0,Rarely,"Research & Development",2,2,Medical,F,"Research Scientist",D,2645,1,0,6,5,3,2,4,Medium-Term,Low
+37,50,1,Rarely,Sales,3,2,Marketing,M,"Sales Representative",M,2683,1,1,3,3,3,3,2,Medium-Term,Low
+38,35,0,Rarely,Sales,2,3,Marketing,F,"Sales Representative",M,2014,1,0,2,2,4,3,3,Short-Term,Low
+39,36,0,Rarely,"Research & Development",5,4,"Life Sciences",F,"Research Scientist",M,3419,9,1,6,1,1,4,2,Short-Term,Medium
+40,33,0,Frequently,Sales,1,3,"Life Sciences",F,"Sales Executive",M,5376,2,0,10,5,1,3,4,Medium-Term,Medium
+41,35,0,Rarely,"Research & Development",4,2,Other,M,"Laboratory Technician",D,1951,1,0,1,1,4,3,3,Short-Term,Low
+42,27,0,Rarely,"Research & Development",2,4,"Life Sciences",F,"Laboratory Technician",D,2341,1,0,1,1,1,3,3,Short-Term,Low
+43,26,1,Rarely,"Research & Development",25,3,"Life Sciences",M,"Laboratory Technician",S,2293,1,0,1,1,3,2,1,Short-Term,Low
+44,27,0,Frequently,Sales,8,3,"Life Sciences",M,"Sales Executive",S,8726,1,0,9,9,3,3,3,Long-Term,High
+45,30,0,Frequently,"Research & Development",1,2,Medical,F,"Laboratory Technician",S,4011,1,0,12,12,4,3,3,Long-Term,Medium
+46,41,1,Rarely,"Research & Development",12,3,"Technical Degree",F,"Research Director",M,19509,1,0,23,22,3,3,3,Long-Term,High
+47,34,0,"No Travel",Sales,23,4,Marketing,M,"Sales Executive",S,4568,0,0,10,9,3,3,3,Long-Term,Medium
+48,37,0,Rarely,"Research & Development",19,2,"Life Sciences",M,"Research Scientist",M,3022,4,0,8,1,2,3,3,Short-Term,Medium
+49,46,0,Frequently,Sales,5,4,Marketing,M,"Sales Executive",S,5772,4,1,14,9,4,3,3,Long-Term,Medium
+50,35,0,Rarely,"Research & Development",8,1,"Life Sciences",M,"Laboratory Technician",M,2269,1,0,1,1,4,3,4,Short-Term,Low
+51,48,1,Rarely,"Research & Development",1,2,"Life Sciences",M,"Laboratory Technician",S,5381,9,1,23,1,3,3,2,Short-Term,Medium
+52,28,1,Rarely,"Research & Development",5,4,"Technical Degree",M,"Laboratory Technician",S,3441,1,1,2,2,3,2,3,Short-Term,Medium
+53,44,0,Rarely,Sales,1,5,Marketing,F,"Sales Executive",D,5454,5,1,9,4,1,2,3,Medium-Term,Medium
+54,35,0,"No Travel","Research & Development",11,2,Medical,M,"Healthcare Representative",M,9884,2,1,10,4,1,3,2,Medium-Term,High
+55,26,0,Rarely,Sales,23,3,Marketing,F,"Sales Executive",M,4157,7,1,5,2,4,2,2,Short-Term,Medium
+56,33,0,Frequently,"Research & Development",1,2,"Life Sciences",F,"Research Director",S,13458,1,1,15,15,4,3,3,Long-Term,High
+57,35,0,Frequently,Sales,18,5,"Life Sciences",M,"Sales Executive",M,9069,1,0,9,9,1,2,3,Long-Term,High
+58,35,0,Rarely,"Research & Development",23,4,Medical,F,"Laboratory Technician",M,4014,3,1,4,2,1,3,3,Short-Term,Medium
+59,31,0,Rarely,"Research & Development",7,4,"Life Sciences",M,"Laboratory Technician",D,5915,3,0,10,7,4,2,3,Medium-Term,Medium
+60,37,0,Rarely,"Research & Development",1,4,"Life Sciences",M,"Manufacturing Director",D,5993,1,0,7,7,3,4,2,Medium-Term,Medium
+61,32,0,Rarely,"Research & Development",1,3,Medical,M,"Manufacturing Director",M,6162,1,1,9,9,4,3,3,Long-Term,Medium
+62,38,0,Frequently,"Research & Development",29,5,"Life Sciences",F,"Laboratory Technician",S,2406,1,0,10,10,4,3,3,Long-Term,Low
+63,50,0,Rarely,"Research & Development",7,2,Medical,F,"Research Director",D,18740,5,1,29,27,3,2,2,Long-Term,High
+64,59,0,Rarely,Sales,25,3,"Life Sciences",F,"Sales Executive",S,7637,7,0,28,21,1,2,3,Long-Term,Medium
+65,36,0,Rarely,"Research & Development",8,3,"Technical Degree",F,"Healthcare Representative",D,10096,1,0,17,17,3,3,3,Long-Term,High
+66,55,0,Rarely,"Research & Development",8,3,Medical,F,Manager,D,14756,2,1,21,5,3,3,3,Medium-Term,High
+67,36,0,Frequently,"Research & Development",11,3,"Life Sciences",M,"Manufacturing Director",S,6499,1,0,6,6,2,3,2,Medium-Term,Medium
+68,45,0,Rarely,"Research & Development",7,3,"Life Sciences",M,"Research Scientist",D,9724,2,0,25,1,1,3,3,Short-Term,High
+69,35,0,Frequently,"Research & Development",1,3,Medical,M,"Research Scientist",M,2194,4,0,5,3,1,2,3,Medium-Term,Low
+70,36,1,Rarely,"Research & Development",9,3,Medical,M,"Research Scientist",M,3388,0,1,2,1,3,2,2,Short-Term,Medium
+71,59,0,Frequently,Sales,1,1,"Life Sciences",F,"Sales Executive",S,5473,7,0,20,4,3,2,2,Medium-Term,Medium
+72,29,0,Rarely,"Research & Development",2,3,"Life Sciences",M,"Research Scientist",M,2703,0,0,6,5,2,3,3,Medium-Term,Low
+73,31,0,Rarely,"Research & Development",1,4,Medical,M,"Research Scientist",S,2501,1,0,1,1,2,3,3,Short-Term,Low
+74,32,0,Rarely,"Research & Development",1,3,"Life Sciences",M,"Research Scientist",M,6220,1,0,10,10,2,3,3,Long-Term,Medium
+75,36,0,Rarely,"Research & Development",6,3,"Life Sciences",F,"Laboratory Technician",M,3038,3,0,5,1,4,3,4,Short-Term,Medium
+76,31,0,Rarely,"Research & Development",8,4,"Life Sciences",F,"Manufacturing Director",S,4424,1,0,11,11,4,3,3,Long-Term,Medium
+77,35,0,Rarely,Sales,1,4,Marketing,M,"Sales Executive",S,4312,0,0,16,15,1,3,2,Long-Term,Medium
+78,45,0,Rarely,"Research & Development",6,4,Other,M,"Research Director",M,13245,4,1,17,0,1,4,3,Short-Term,High
+79,37,0,Rarely,"Research & Development",7,4,Medical,M,"Research Director",S,13664,4,0,16,5,3,4,3,Medium-Term,High
+80,46,0,Rarely,"Human Resources",5,2,Medical,M,"Human Resources",D,5021,8,1,16,4,2,3,3,Medium-Term,Medium
+81,30,0,Rarely,"Research & Development",1,1,"Life Sciences",M,"Laboratory Technician",M,5126,1,1,10,10,4,2,2,Long-Term,Medium
+82,35,0,Rarely,"Research & Development",1,3,Medical,M,"Research Scientist",S,2859,1,0,6,6,3,3,2,Medium-Term,Low
+83,55,0,Rarely,Sales,1,2,"Life Sciences",M,"Sales Executive",M,10239,3,0,24,1,4,3,3,Short-Term,High
+84,38,0,"No Travel","Research & Development",6,3,Medical,F,"Research Scientist",D,5329,7,1,17,13,4,3,1,Long-Term,Medium
+85,34,0,Rarely,"Research & Development",1,2,Medical,M,"Manufacturing Director",M,4325,1,0,5,5,2,3,3,Medium-Term,Medium
+86,56,0,Rarely,"Research & Development",7,3,"Life Sciences",M,"Manufacturing Director",S,7260,4,0,37,6,4,2,1,Medium-Term,Medium
+87,23,0,Rarely,Sales,2,1,"Technical Degree",M,"Sales Representative",D,2322,3,0,3,0,1,3,3,Short-Term,Low
+88,51,0,Rarely,"Research & Development",9,4,"Life Sciences",M,"Laboratory Technician",M,2075,3,0,10,4,4,3,3,Medium-Term,Low
+89,30,0,Rarely,"Research & Development",2,3,"Life Sciences",M,"Healthcare Representative",M,4152,1,0,11,11,4,3,2,Long-Term,Medium
+90,46,1,Rarely,Sales,9,2,Medical,M,"Sales Executive",S,9619,1,0,9,9,4,3,2,Long-Term,High
+91,40,0,Frequently,"Research & Development",1,4,"Life Sciences",M,"Healthcare Representative",M,13503,1,0,22,22,2,2,2,Long-Term,High
+92,51,0,Rarely,Sales,21,4,Marketing,M,"Sales Executive",S,5441,0,1,11,10,4,1,3,Long-Term,Medium
+93,30,0,Rarely,Sales,4,2,Medical,F,"Sales Executive",D,5209,1,1,11,11,2,2,2,Long-Term,Medium
+94,46,0,Frequently,"Research & Development",1,3,Medical,M,"Healthcare Representative",M,10673,2,1,21,10,1,2,2,Long-Term,High
+95,32,0,Rarely,Sales,6,4,Medical,M,"Sales Executive",S,5010,1,0,12,11,3,3,3,Long-Term,Medium
+96,54,0,Rarely,"Research & Development",2,4,"Technical Degree",F,"Research Director",M,13549,9,0,16,4,3,1,3,Medium-Term,High
+97,24,0,Rarely,Sales,3,2,Other,F,"Sales Executive",M,4999,0,0,4,3,3,2,3,Medium-Term,Medium
+98,28,0,"No Travel",Sales,4,3,Medical,M,"Sales Executive",M,4221,1,0,5,5,3,4,3,Medium-Term,Medium
+99,58,0,Rarely,Sales,10,4,Medical,M,"Sales Executive",S,13872,0,0,38,37,3,2,3,Long-Term,High
+100,44,0,"No Travel","Research & Development",23,3,Medical,M,"Laboratory Technician",M,2042,4,0,17,3,2,4,3,Medium-Term,Low
+101,37,1,Rarely,"Human Resources",6,4,"Human Resources",M,"Human Resources",D,2073,4,1,7,3,1,3,3,Medium-Term,Low
+102,32,0,Rarely,"Research & Development",1,1,"Life Sciences",M,"Research Scientist",S,2956,1,0,1,1,1,3,3,Short-Term,Low
+103,20,1,Frequently,"Research & Development",6,3,"Life Sciences",F,"Laboratory Technician",S,2926,1,1,1,1,4,3,2,Short-Term,Low
+104,34,0,Rarely,"Research & Development",6,4,Other,F,"Research Scientist",S,4809,1,0,16,16,3,3,3,Long-Term,Medium
+105,37,0,"No Travel","Research & Development",2,2,"Life Sciences",M,"Healthcare Representative",D,5163,5,0,17,1,4,4,2,Short-Term,Medium
+106,59,0,"No Travel","Human Resources",2,4,"Human Resources",F,Manager,M,18844,9,0,30,3,4,3,2,Medium-Term,High
+107,50,0,Frequently,"Research & Development",1,3,"Life Sciences",F,"Research Director",M,18172,3,1,28,8,2,2,3,Long-Term,High
+108,25,1,Rarely,Sales,5,3,Marketing,M,"Sales Executive",S,5744,1,1,6,6,3,3,2,Medium-Term,Medium
+109,25,0,Rarely,"Research & Development",7,1,Medical,M,"Research Scientist",M,2889,1,0,2,2,4,3,2,Short-Term,Low
+110,22,0,Rarely,"Research & Development",15,3,Medical,F,"Laboratory Technician",S,2871,1,0,1,0,4,3,3,Short-Term,Low
+111,51,0,Frequently,"Research & Development",1,4,Medical,F,"Healthcare Representative",S,7484,3,0,23,13,1,2,2,Long-Term,Medium
+112,34,1,Frequently,"Research & Development",7,3,"Life Sciences",M,"Laboratory Technician",S,6074,1,1,9,9,3,3,1,Long-Term,Medium
+113,54,0,"No Travel","Human Resources",26,3,"Human Resources",F,Manager,S,17328,2,1,23,5,4,3,4,Medium-Term,High
+114,24,0,Rarely,"Research & Development",18,1,"Life Sciences",M,"Laboratory Technician",M,2774,0,0,6,5,3,3,3,Medium-Term,Low
+115,34,0,Rarely,"Research & Development",6,4,"Life Sciences",F,"Research Scientist",D,4505,6,0,12,1,2,3,2,Short-Term,Medium
+116,37,0,Rarely,Sales,3,3,"Life Sciences",M,"Sales Executive",S,7428,2,0,12,5,4,3,3,Medium-Term,Medium
+117,34,0,Rarely,"Research & Development",5,3,Medical,F,Manager,S,11631,2,0,14,11,1,3,2,Long-Term,High
+118,36,0,Frequently,Sales,11,2,"Technical Degree",F,"Sales Executive",M,9738,0,0,10,9,4,3,3,Long-Term,High
+119,36,0,Rarely,"Research & Development",3,2,"Life Sciences",F,"Laboratory Technician",D,2835,5,0,7,1,4,3,3,Short-Term,Low
+120,43,0,Frequently,Sales,26,2,"Life Sciences",M,Manager,M,16959,1,1,25,25,4,4,3,Long-Term,High
+121,30,0,Frequently,"Research & Development",23,3,"Life Sciences",M,"Research Scientist",D,2613,1,0,10,10,3,2,1,Long-Term,Low
+122,33,0,"No Travel",Sales,22,2,Marketing,M,"Sales Executive",M,6146,0,0,8,7,2,4,3,Medium-Term,Medium
+123,56,1,Rarely,"Research & Development",14,4,"Life Sciences",F,"Research Scientist",M,4963,9,1,7,5,2,3,3,Medium-Term,Medium
+124,51,0,Rarely,"Research & Development",6,3,"Life Sciences",M,"Research Director",S,19509,7,0,23,20,3,3,3,Long-Term,High
+125,31,1,Rarely,Sales,6,4,"Life Sciences",M,"Sales Executive",M,6172,4,1,12,7,3,2,1,Medium-Term,Medium
+126,26,0,Rarely,"Research & Development",6,3,Other,F,"Research Scientist",M,2368,1,0,5,5,2,2,2,Medium-Term,Low
+127,58,1,Rarely,"Research & Development",23,4,Medical,F,"Healthcare Representative",M,10312,1,0,40,40,4,2,3,Long-Term,High
+128,19,1,Rarely,Sales,22,1,Marketing,M,"Sales Representative",S,1675,1,1,0,0,3,2,3,Short-Term,Low
+129,22,0,Rarely,"Research & Development",2,1,"Technical Degree",M,"Laboratory Technician",M,2523,0,0,3,2,4,3,3,Short-Term,Low
+130,49,0,Rarely,"Research & Development",20,4,Medical,F,"Manufacturing Director",M,6567,1,0,16,15,1,2,3,Long-Term,Medium
+131,43,0,Frequently,"Research & Development",28,3,Medical,F,"Research Scientist",S,4739,4,0,18,3,3,3,4,Medium-Term,Medium
+132,50,0,Frequently,Sales,12,3,Marketing,F,"Sales Executive",S,9208,4,0,16,2,4,3,3,Short-Term,High
+133,31,1,Rarely,Sales,20,3,"Life Sciences",F,"Sales Executive",M,4559,3,1,4,2,3,3,1,Short-Term,Medium
+134,41,0,Rarely,Sales,9,1,"Life Sciences",M,"Sales Executive",D,8189,3,1,12,9,3,3,3,Long-Term,High
+135,26,0,Rarely,"Human Resources",25,1,"Life Sciences",F,"Human Resources",M,2942,1,0,8,8,3,3,3,Long-Term,Low
+136,36,0,Rarely,"Research & Development",6,2,Medical,M,"Manufacturing Director",D,4941,6,0,7,3,2,3,3,Medium-Term,Medium
+137,51,1,Frequently,"Research & Development",8,4,"Life Sciences",M,"Manufacturing Director",S,10650,2,0,18,4,4,3,1,Medium-Term,High
+138,39,0,Rarely,Sales,4,4,"Life Sciences",F,"Sales Executive",M,5902,4,0,17,15,3,4,2,Long-Term,Medium
+139,25,0,Rarely,Sales,28,3,"Life Sciences",M,"Sales Executive",M,8639,2,0,6,2,3,3,2,Short-Term,High
+140,30,0,Rarely,"Human Resources",9,3,"Human Resources",M,"Human Resources",M,6347,0,1,12,11,4,1,3,Long-Term,Medium
+141,32,1,Rarely,"Research & Development",9,3,Medical,F,"Laboratory Technician",S,4200,7,0,10,5,1,4,3,Medium-Term,Medium
+142,45,0,Rarely,"Research & Development",29,3,Medical,M,"Research Scientist",S,3452,5,0,9,6,4,2,3,Medium-Term,Medium
+143,38,0,Rarely,"Research & Development",3,5,"Technical Degree",F,"Research Scientist",S,4317,3,1,19,3,3,3,3,Medium-Term,Medium
+144,30,0,Rarely,"Research & Development",18,3,"Life Sciences",F,"Research Scientist",S,2632,1,0,5,5,3,2,3,Medium-Term,Low
+145,32,0,Frequently,Sales,9,2,Medical,M,"Sales Executive",D,4668,0,0,9,8,4,4,1,Long-Term,Medium
+146,30,0,Rarely,"Research & Development",5,3,"Technical Degree",F,"Research Scientist",D,3204,5,0,8,3,1,3,3,Medium-Term,Medium
+147,30,0,Rarely,"Research & Development",2,1,Medical,M,"Laboratory Technician",S,2720,0,0,6,5,4,3,2,Medium-Term,Low
+148,41,0,Frequently,"Research & Development",10,3,"Life Sciences",M,Manager,D,17181,4,0,21,7,1,2,2,Medium-Term,High
+149,41,0,Rarely,"Research & Development",9,4,"Life Sciences",M,"Laboratory Technician",M,2238,2,0,7,5,1,3,3,Medium-Term,Low
+150,19,0,Rarely,"Research & Development",3,1,Medical,F,"Laboratory Technician",S,1483,1,0,1,1,2,3,3,Short-Term,Low
+151,40,0,Frequently,"Research & Development",26,3,Medical,F,"Research Scientist",D,5605,1,0,20,20,2,3,3,Long-Term,Medium
+152,35,0,Rarely,Sales,1,5,Marketing,M,"Sales Executive",M,7295,1,0,10,10,2,3,3,Long-Term,Medium
+153,53,0,Rarely,Sales,6,2,Marketing,M,"Sales Representative",M,2306,2,1,13,7,3,1,3,Medium-Term,Low
+154,45,0,Rarely,"Research & Development",9,3,"Life Sciences",M,"Laboratory Technician",D,2348,8,0,20,17,2,1,3,Long-Term,Low
+155,32,0,Frequently,Sales,8,3,Marketing,F,"Sales Executive",S,8998,1,0,9,9,4,3,3,Long-Term,High
+156,29,0,"No Travel","Research & Development",1,1,"Technical Degree",M,"Manufacturing Director",M,4319,1,0,10,10,3,3,3,Long-Term,Medium
+157,51,0,Rarely,"Research & Development",7,4,Medical,M,"Manufacturing Director",M,6132,2,0,10,1,3,3,2,Short-Term,Medium
+158,58,0,Rarely,"Research & Development",9,3,Medical,F,"Research Scientist",M,3346,4,1,9,1,2,2,2,Short-Term,Medium
+159,40,0,Rarely,Sales,4,4,Marketing,M,"Sales Executive",M,10855,7,0,15,12,4,2,2,Long-Term,High
+160,34,0,Frequently,Sales,2,4,Marketing,F,"Sales Representative",M,2231,6,0,6,4,3,3,3,Medium-Term,Low
+161,22,0,Rarely,"Research & Development",19,1,Medical,M,"Research Scientist",M,2323,1,0,2,2,4,3,3,Short-Term,Low
+162,27,0,"No Travel","Research & Development",9,3,Medical,M,"Research Scientist",D,2024,6,0,6,2,2,1,3,Short-Term,Low
+163,28,0,Rarely,"Research & Development",21,3,Medical,M,"Research Scientist",M,2713,1,0,5,5,4,1,3,Medium-Term,Low
+164,57,0,Rarely,"Research & Development",24,2,"Life Sciences",M,"Healthcare Representative",D,9439,3,1,12,5,4,1,4,Medium-Term,High
+165,27,0,"No Travel","Research & Development",3,3,Medical,M,"Research Scientist",D,2566,1,1,1,1,3,2,2,Short-Term,Low
+166,50,0,Rarely,"Research & Development",11,3,"Life Sciences",F,Manager,S,19509,3,0,21,5,2,3,3,Medium-Term,High
+167,41,0,Rarely,"Research & Development",14,3,"Life Sciences",M,"Research Scientist",D,2451,4,0,13,9,3,3,3,Long-Term,Low
+168,30,0,Rarely,Sales,5,3,"Life Sciences",F,"Sales Executive",M,9419,2,0,12,10,4,3,3,Long-Term,High
+169,38,0,Rarely,Sales,1,4,"Life Sciences",F,"Sales Executive",S,8686,4,0,12,8,4,4,2,Long-Term,High
+170,32,0,Rarely,"Research & Development",6,5,"Life Sciences",M,"Research Scientist",S,3038,3,0,8,5,3,3,3,Medium-Term,Medium
+171,27,0,Rarely,"Research & Development",17,3,"Technical Degree",M,"Research Scientist",M,3058,0,1,6,5,2,2,3,Medium-Term,Medium
+172,19,1,Frequently,Sales,1,1,"Technical Degree",F,"Sales Representative",S,2325,0,0,1,0,1,4,1,Short-Term,Low
+173,36,0,Frequently,"Research & Development",3,2,Medical,M,"Laboratory Technician",S,2088,4,0,13,8,2,2,3,Long-Term,Low
+174,30,0,"No Travel","Research & Development",9,3,Medical,M,"Laboratory Technician",D,3072,1,0,12,12,1,3,3,Long-Term,Medium
+175,45,0,Rarely,Sales,4,2,"Life Sciences",F,"Sales Executive",D,5006,4,1,9,5,1,4,3,Medium-Term,Medium
+176,56,0,Rarely,"Research & Development",8,3,"Life Sciences",F,"Research Scientist",D,4257,4,1,19,2,1,3,3,Short-Term,Medium
+177,33,0,Rarely,"Research & Development",2,3,"Life Sciences",M,"Research Scientist",S,2500,0,0,4,3,4,4,3,Medium-Term,Low
+178,19,1,Rarely,"Research & Development",2,3,"Life Sciences",M,"Laboratory Technician",S,1102,1,0,1,1,4,2,2,Short-Term,Low
+179,46,0,Rarely,Sales,1,2,Marketing,F,"Sales Executive",D,10453,1,0,24,24,1,3,3,Long-Term,High
+180,38,0,Rarely,"Research & Development",9,2,"Life Sciences",F,"Laboratory Technician",S,2288,1,0,2,2,4,3,3,Short-Term,Low
+181,31,0,Rarely,"Research & Development",12,1,Medical,F,"Research Scientist",M,3929,8,1,7,4,4,3,3,Medium-Term,Medium
+182,34,0,Rarely,"Research & Development",27,2,Medical,F,"Research Scientist",S,2311,2,0,9,3,2,3,3,Medium-Term,Low
+183,41,1,Rarely,Sales,20,2,Marketing,F,"Sales Representative",S,3140,1,1,4,4,2,2,3,Medium-Term,Medium
+184,50,0,Rarely,"Research & Development",1,3,Medical,M,"Laboratory Technician",M,3690,2,0,5,3,3,2,2,Medium-Term,Medium
+185,53,0,Rarely,"Research & Development",13,2,Medical,F,"Manufacturing Director",D,4450,1,0,5,4,1,3,4,Medium-Term,Medium
+186,33,0,Rarely,"Research & Development",14,3,Medical,F,"Research Scientist",M,2756,1,0,8,8,2,3,3,Long-Term,Low
+187,40,0,Rarely,"Research & Development",4,1,Medical,F,Manager,M,19033,1,0,21,20,3,3,3,Long-Term,High
+188,55,0,Rarely,"Research & Development",14,4,Medical,M,"Research Director",S,18722,8,0,36,24,2,3,4,Long-Term,High
+189,34,0,Frequently,"Research & Development",2,1,"Life Sciences",M,"Manufacturing Director",M,9547,1,0,10,10,3,2,2,Long-Term,High
+190,51,0,Rarely,"Research & Development",3,3,Medical,F,"Healthcare Representative",S,13734,3,0,21,7,2,3,3,Medium-Term,High
+191,52,0,Rarely,"Research & Development",1,4,"Life Sciences",M,Manager,M,19509,0,0,34,33,3,3,2,Long-Term,High
+192,27,0,Rarely,"Research & Development",9,3,Medical,F,"Research Scientist",S,2279,1,0,7,7,2,2,3,Medium-Term,Low
+193,35,1,Rarely,"Research & Development",23,2,"Life Sciences",M,"Manufacturing Director",M,5916,3,1,8,1,3,3,2,Short-Term,Medium
+194,43,0,"No Travel","Research & Development",7,3,Medical,M,"Research Scientist",D,2089,4,0,7,5,4,4,4,Medium-Term,Low
+195,45,0,"No Travel","Research & Development",2,2,Medical,M,Manager,M,16792,9,0,22,20,4,3,2,Long-Term,High
+196,37,0,Rarely,"Research & Development",21,3,"Life Sciences",M,"Research Scientist",M,3564,1,1,8,8,1,2,4,Long-Term,Medium
+197,35,0,Frequently,"Research & Development",2,3,Medical,F,"Laboratory Technician",S,4425,5,0,10,6,2,3,3,Medium-Term,Medium
+198,42,0,"No Travel","Research & Development",21,2,Medical,F,"Manufacturing Director",D,5265,2,0,11,5,3,3,3,Medium-Term,Medium
+199,38,0,Rarely,"Research & Development",2,4,"Life Sciences",M,"Manufacturing Director",M,6553,9,0,14,1,3,3,3,Short-Term,Medium
+200,38,0,Rarely,"Research & Development",29,3,"Technical Degree",M,"Manufacturing Director",M,6261,3,0,9,7,4,1,3,Medium-Term,Medium
+201,27,0,Frequently,"Research & Development",1,1,"Technical Degree",M,"Manufacturing Director",M,4298,5,0,6,2,1,3,2,Short-Term,Medium
+202,49,0,"No Travel","Research & Development",18,4,"Life Sciences",M,"Manufacturing Director",D,6804,1,1,7,7,4,3,3,Medium-Term,Medium
+203,34,0,Frequently,"Research & Development",10,4,Medical,M,"Research Scientist",D,3815,1,1,5,5,3,4,3,Medium-Term,Medium
+204,40,0,Rarely,"Research & Development",19,2,Medical,M,"Laboratory Technician",M,2741,8,1,15,7,4,4,3,Medium-Term,Low
+205,38,1,Rarely,"Research & Development",29,1,Medical,M,"Healthcare Representative",M,6673,7,1,17,1,1,3,3,Short-Term,Medium
+206,29,1,Rarely,Sales,27,3,Marketing,F,"Sales Executive",M,7639,1,0,10,10,4,2,3,Long-Term,Medium
+207,22,0,Rarely,"Research & Development",5,3,"Life Sciences",M,"Research Scientist",D,2328,1,1,4,4,2,2,4,Medium-Term,Low
+208,36,0,Frequently,"Research & Development",18,1,Medical,F,"Laboratory Technician",S,2153,1,0,8,8,4,3,3,Long-Term,Low
+209,40,0,"No Travel","Research & Development",9,5,"Life Sciences",M,"Healthcare Representative",M,4876,9,0,5,3,4,1,2,Medium-Term,Medium
+210,46,0,Rarely,"Research & Development",1,4,Medical,M,"Healthcare Representative",D,9396,7,0,17,4,1,3,3,Medium-Term,High
+211,32,1,Rarely,Sales,4,4,Medical,M,"Sales Executive",M,10400,1,0,14,14,4,2,1,Long-Term,High
+212,30,0,"No Travel","Research & Development",1,1,"Life Sciences",M,"Manufacturing Director",S,8474,1,0,12,11,3,3,2,Long-Term,High
+213,27,0,Frequently,Sales,20,3,"Life Sciences",F,"Sales Executive",S,9981,1,0,7,7,3,3,3,Medium-Term,High
+214,51,0,Rarely,"Research & Development",8,4,"Life Sciences",M,"Research Director",M,12490,5,0,16,10,2,1,2,Long-Term,High
+215,30,1,Rarely,"Research & Development",3,3,"Technical Degree",F,"Research Scientist",S,2657,5,1,8,5,1,3,3,Medium-Term,Low
+216,41,0,Rarely,Sales,6,3,"Life Sciences",F,Manager,S,13591,3,1,16,1,4,3,3,Short-Term,High
+217,30,1,Frequently,Sales,26,4,Marketing,F,"Sales Executive",S,6696,5,0,9,6,1,2,2,Medium-Term,Medium
+218,29,1,Rarely,"Research & Development",1,3,"Technical Degree",M,"Research Scientist",S,2058,0,0,7,6,3,2,3,Medium-Term,Low
+219,45,0,"No Travel",Sales,6,3,Medical,F,"Sales Executive",S,8865,6,0,23,19,4,3,2,Long-Term,High
+220,54,0,Rarely,Sales,3,3,Marketing,F,"Sales Executive",M,5940,2,0,16,6,1,3,3,Medium-Term,Medium
+221,36,0,Rarely,"Research & Development",5,2,"Life Sciences",M,"Laboratory Technician",S,5914,8,0,16,13,2,4,3,Long-Term,Medium
+222,33,0,Rarely,"Research & Development",4,4,Medical,F,"Research Scientist",M,2622,6,0,7,3,2,3,2,Medium-Term,Low
+223,37,0,Frequently,"Research & Development",11,3,Other,M,"Research Director",D,12185,1,1,10,10,4,3,3,Long-Term,High
+224,38,0,Rarely,Sales,3,3,"Life Sciences",M,"Sales Executive",D,10609,0,0,17,16,3,2,3,Long-Term,High
+225,31,0,"No Travel","Research & Development",1,4,Medical,M,"Manufacturing Director",M,4345,0,0,6,5,3,3,1,Medium-Term,Medium
+226,59,0,Rarely,"Research & Development",3,3,"Life Sciences",M,"Research Scientist",M,2177,3,0,7,1,4,3,2,Short-Term,Low
+227,37,0,Frequently,Sales,4,4,Marketing,M,"Sales Representative",D,2793,4,0,13,9,4,3,3,Long-Term,Low
+228,29,0,Frequently,Sales,1,1,Medical,F,"Sales Executive",M,7918,1,0,11,11,4,3,3,Long-Term,Medium
+229,35,0,Frequently,Sales,1,3,Marketing,F,"Sales Executive",S,8789,1,0,10,10,3,4,3,Long-Term,High
+230,29,1,Rarely,"Research & Development",18,1,Medical,M,"Research Scientist",S,2389,1,1,4,4,4,2,2,Medium-Term,Low
+231,52,0,Rarely,"Research & Development",2,3,"Life Sciences",F,"Laboratory Technician",S,3212,7,0,6,2,4,2,2,Short-Term,Medium
+232,42,0,Rarely,"Research & Development",4,2,"Technical Degree",M,Manager,M,19232,1,0,22,22,4,3,3,Long-Term,High
+233,59,0,Rarely,"Human Resources",6,2,Medical,M,"Human Resources",M,2267,8,0,7,2,3,2,3,Short-Term,Low
+234,50,0,Rarely,Sales,1,4,Medical,F,Manager,D,19509,3,0,32,7,4,2,3,Medium-Term,High
+235,33,1,Rarely,"Research & Development",14,3,Medical,M,"Laboratory Technician",M,2436,5,1,8,5,4,1,3,Medium-Term,Low
+236,43,0,Rarely,Sales,16,3,Marketing,F,Manager,M,16064,5,1,22,17,4,3,3,Long-Term,High
+237,33,1,Rarely,"Research & Development",2,2,"Life Sciences",F,"Laboratory Technician",M,2707,7,0,13,9,1,4,3,Long-Term,Low
+238,52,0,"No Travel",Sales,2,4,"Life Sciences",M,Manager,S,19068,1,1,33,33,3,4,2,Long-Term,High
+239,32,0,Rarely,Sales,4,2,"Life Sciences",F,"Sales Representative",M,3931,2,0,6,4,2,3,3,Medium-Term,Medium
+240,32,1,Rarely,"Research & Development",1,3,"Life Sciences",M,"Laboratory Technician",S,3730,0,1,4,3,3,1,2,Medium-Term,Medium
+241,39,0,Rarely,"Research & Development",1,4,Medical,F,"Laboratory Technician",D,2232,7,0,7,3,3,3,3,Medium-Term,Low
+242,32,0,"No Travel",Sales,26,4,Marketing,M,"Sales Executive",M,4465,0,0,4,3,4,3,3,Medium-Term,Medium
+243,41,0,Rarely,"Research & Development",19,2,"Life Sciences",M,"Research Scientist",D,3072,2,0,17,1,1,2,3,Short-Term,Medium
+244,40,0,Rarely,"Research & Development",24,2,"Technical Degree",M,"Research Scientist",D,3319,1,0,9,9,4,3,3,Long-Term,Medium
+245,45,0,Rarely,"Research & Development",1,3,Other,M,Manager,M,19202,0,0,25,24,4,3,4,Long-Term,High
+246,31,0,Frequently,"Research & Development",3,4,Medical,M,"Research Director",D,13675,9,0,9,2,3,3,3,Short-Term,High
+247,33,0,Rarely,"Research & Development",5,4,"Life Sciences",F,"Research Scientist",M,2911,1,0,2,2,4,2,2,Short-Term,Low
+248,34,0,Rarely,"Research & Development",2,4,"Life Sciences",M,"Manufacturing Director",M,5957,6,0,13,11,1,3,2,Long-Term,Medium
+249,37,0,Rarely,"Research & Development",1,2,Medical,F,"Research Scientist",M,3920,2,0,17,3,1,2,2,Medium-Term,Medium
+250,45,0,Frequently,"Research & Development",7,4,"Life Sciences",M,"Manufacturing Director",M,6434,4,0,9,3,3,3,4,Medium-Term,Medium
+251,37,1,Frequently,"Research & Development",10,3,Medical,M,"Manufacturing Director",D,10048,6,0,17,1,3,3,3,Short-Term,High
+252,39,0,Frequently,"Research & Development",2,4,"Technical Degree",F,"Healthcare Representative",S,10938,0,0,20,19,3,3,3,Long-Term,High
+253,29,0,Rarely,"Research & Development",15,3,"Life Sciences",M,"Research Scientist",S,2340,1,0,6,6,4,3,3,Medium-Term,Low
+254,42,0,Rarely,"Research & Development",17,2,"Life Sciences",F,"Research Scientist",S,6545,3,1,10,3,1,3,4,Medium-Term,Medium
+255,29,0,Rarely,Sales,20,2,Marketing,M,"Sales Executive",D,6931,2,0,10,3,4,3,3,Medium-Term,Medium
+256,25,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Manufacturing Director",M,4898,0,0,5,4,3,3,3,Medium-Term,Medium
+257,42,0,Rarely,"Research & Development",2,3,Medical,F,"Laboratory Technician",D,2593,0,1,10,9,1,3,2,Long-Term,Low
+258,40,0,Rarely,"Research & Development",2,2,Medical,M,"Research Director",D,19436,0,0,22,21,3,3,3,Long-Term,High
+259,51,0,Rarely,"Research & Development",1,3,"Life Sciences",M,"Research Scientist",M,2723,1,0,1,1,4,2,3,Short-Term,Low
+260,31,1,Frequently,"Research & Development",29,2,Medical,M,"Laboratory Technician",S,3479,0,0,6,5,2,4,2,Medium-Term,Medium
+261,32,0,Frequently,"Research & Development",7,3,"Life Sciences",M,"Laboratory Technician",M,2794,1,0,5,5,2,1,4,Medium-Term,Low
+262,38,0,"No Travel",Sales,2,2,"Life Sciences",M,"Sales Executive",M,5249,3,0,13,8,4,3,2,Long-Term,Medium
+263,32,0,Rarely,"Research & Development",2,1,"Technical Degree",M,"Laboratory Technician",S,2176,4,0,9,6,1,3,2,Medium-Term,Low
+264,46,0,Rarely,Sales,2,3,"Technical Degree",F,Manager,M,16872,3,1,28,7,2,2,1,Medium-Term,High
+265,28,1,Rarely,"Research & Development",2,4,"Life Sciences",M,"Laboratory Technician",S,3485,2,0,5,0,3,1,3,Short-Term,Medium
+266,29,0,Rarely,Sales,2,3,Medical,M,"Sales Executive",M,6644,2,0,10,0,2,3,2,Short-Term,Medium
+267,31,0,Rarely,"Research & Development",23,3,Medical,M,"Healthcare Representative",M,5582,0,0,10,9,4,3,2,Long-Term,Medium
+268,25,0,"No Travel","Research & Development",5,2,"Life Sciences",M,"Healthcare Representative",D,4000,1,0,6,6,1,3,4,Medium-Term,Medium
+269,45,0,Rarely,"Research & Development",20,2,Medical,M,"Healthcare Representative",M,13496,0,1,21,20,4,3,3,Long-Term,High
+270,36,0,Rarely,"Research & Development",6,3,"Life Sciences",M,"Laboratory Technician",M,3210,0,0,16,15,4,3,3,Long-Term,Medium
+271,55,0,Rarely,"Research & Development",1,3,Medical,M,Manager,S,19045,0,1,37,36,1,3,3,Long-Term,High
+272,47,1,"No Travel","Research & Development",29,4,"Life Sciences",M,Manager,M,11849,1,1,10,10,2,2,3,Long-Term,High
+273,28,0,Rarely,"Research & Development",9,3,Medical,M,"Research Scientist",M,2070,1,0,5,5,4,2,3,Medium-Term,Low
+274,37,0,Rarely,Sales,6,4,Medical,M,"Sales Executive",M,6502,4,0,7,5,4,4,3,Medium-Term,Medium
+275,21,0,Rarely,"Research & Development",3,2,Medical,M,"Research Scientist",S,3230,1,0,3,3,3,4,2,Medium-Term,Medium
+276,37,0,"No Travel","Research & Development",1,4,Medical,F,"Research Director",D,13603,2,1,15,5,4,3,3,Medium-Term,High
+277,35,0,Rarely,"Research & Development",22,3,"Life Sciences",F,Manager,D,11996,7,0,10,7,2,2,4,Medium-Term,High
+278,38,0,Rarely,Sales,7,2,Medical,F,"Sales Executive",D,5605,1,1,8,8,1,3,4,Long-Term,Medium
+279,26,0,Frequently,"Research & Development",1,3,"Life Sciences",F,"Manufacturing Director",D,6397,1,0,6,6,2,1,3,Medium-Term,Medium
+280,50,0,Rarely,"Research & Development",4,1,"Life Sciences",M,"Research Director",D,19144,3,0,28,10,2,2,3,Long-Term,High
+281,53,0,Rarely,"Research & Development",3,4,Medical,M,"Research Director",M,17584,3,1,21,5,3,2,3,Medium-Term,High
+282,42,0,Rarely,Sales,1,1,"Life Sciences",M,"Sales Executive",M,4907,1,0,20,20,3,3,3,Long-Term,Medium
+283,29,0,Frequently,Sales,2,2,"Life Sciences",M,"Sales Executive",S,4554,1,0,10,10,4,2,3,Long-Term,Medium
+284,55,0,Rarely,"Research & Development",20,2,"Technical Degree",M,"Laboratory Technician",M,5415,3,1,12,10,4,3,3,Long-Term,Medium
+285,26,0,Frequently,"Research & Development",11,2,Medical,M,"Healthcare Representative",M,4741,1,1,5,5,1,3,3,Medium-Term,Medium
+286,37,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Research Scientist",S,2115,1,0,17,17,4,3,3,Long-Term,Low
+287,44,1,Frequently,"Research & Development",24,3,"Life Sciences",M,"Laboratory Technician",D,3161,3,1,19,1,3,1,3,Short-Term,Medium
+288,38,0,Rarely,"Research & Development",23,4,"Life Sciences",M,"Healthcare Representative",D,5745,9,0,10,2,4,3,3,Short-Term,Medium
+289,26,1,Rarely,"Research & Development",16,4,Medical,M,"Laboratory Technician",D,2373,2,1,5,3,2,3,3,Medium-Term,Low
+290,28,0,Rarely,"Research & Development",8,2,"Life Sciences",F,"Research Scientist",S,3310,1,0,5,5,4,3,3,Medium-Term,Medium
+291,49,0,Frequently,"Research & Development",10,4,"Life Sciences",F,"Research Director",S,18665,9,1,22,3,1,3,3,Medium-Term,High
+292,36,0,Rarely,"Research & Development",3,3,"Technical Degree",M,"Research Scientist",S,4485,4,0,10,8,2,3,3,Long-Term,Medium
+293,31,0,Frequently,Sales,5,3,Marketing,F,"Sales Representative",D,2789,1,0,2,2,2,2,3,Short-Term,Low
+294,26,1,Rarely,Sales,4,4,Marketing,M,"Sales Executive",S,5828,1,1,8,8,4,3,2,Long-Term,Medium
+295,37,0,Frequently,"Research & Development",9,3,Medical,M,"Research Scientist",M,2326,1,1,4,4,4,2,3,Medium-Term,Low
+296,42,0,Frequently,Sales,26,3,Marketing,F,"Sales Executive",M,13525,5,0,23,20,2,4,3,Long-Term,High
+297,18,1,Rarely,"Research & Development",3,3,"Life Sciences",M,"Laboratory Technician",S,1420,1,0,0,0,3,3,3,Short-Term,Low
+298,35,0,Rarely,Sales,16,3,Marketing,M,"Sales Executive",M,8020,0,0,12,11,2,2,3,Long-Term,High
+299,36,0,Frequently,"Research & Development",18,4,"Life Sciences",M,"Laboratory Technician",M,3688,4,0,4,1,4,3,4,Short-Term,Medium
+300,51,0,Rarely,"Research & Development",2,3,Medical,M,"Manufacturing Director",D,5482,5,0,13,4,2,3,1,Medium-Term,Medium
+301,41,0,Rarely,Sales,2,4,"Life Sciences",M,Manager,S,16015,1,0,22,22,2,3,3,Long-Term,High
+302,18,0,Rarely,Sales,10,3,Medical,F,"Sales Representative",S,1200,1,0,0,0,3,3,2,Short-Term,Low
+303,28,0,Rarely,"Research & Development",16,2,Medical,M,"Healthcare Representative",S,5661,0,0,9,8,1,3,4,Long-Term,Medium
+304,31,0,Rarely,Sales,7,3,"Technical Degree",M,"Sales Executive",M,6929,4,0,10,8,4,2,4,Long-Term,Medium
+305,39,0,Rarely,"Research & Development",1,3,Medical,M,"Healthcare Representative",D,9613,0,0,19,18,4,2,4,Long-Term,High
+306,36,0,"No Travel","Research & Development",24,4,"Life Sciences",F,"Laboratory Technician",M,5674,7,0,11,9,2,3,3,Long-Term,Medium
+307,32,0,Rarely,Sales,7,3,"Life Sciences",M,"Sales Executive",M,5484,1,0,13,13,3,2,2,Long-Term,Medium
+308,38,0,Rarely,"Research & Development",25,2,"Life Sciences",F,"Research Director",M,12061,3,0,19,10,2,3,2,Long-Term,High
+309,58,0,"No Travel","Research & Development",1,4,"Life Sciences",M,"Healthcare Representative",D,5660,2,1,12,5,3,3,1,Medium-Term,Medium
+310,31,0,Rarely,"Research & Development",5,4,"Technical Degree",M,"Research Scientist",M,4821,0,1,6,5,4,3,3,Medium-Term,Medium
+311,31,0,Rarely,"Human Resources",2,3,"Human Resources",M,"Human Resources",M,6410,3,0,9,2,1,3,2,Short-Term,Medium
+312,45,0,Frequently,"Research & Development",7,3,"Life Sciences",M,"Laboratory Technician",D,5210,1,0,24,24,1,3,3,Long-Term,Medium
+313,31,0,Rarely,"Research & Development",2,4,"Life Sciences",M,"Research Scientist",D,2695,0,1,3,2,4,1,3,Short-Term,Low
+314,33,0,Frequently,"Research & Development",5,4,"Life Sciences",F,Manager,M,11878,6,0,12,10,2,3,3,Long-Term,High
+315,39,0,Rarely,"Research & Development",10,1,Medical,M,Manager,M,17068,1,1,21,21,1,3,3,Long-Term,High
+316,43,0,Frequently,"Research & Development",10,4,"Life Sciences",F,"Laboratory Technician",S,2455,0,0,9,8,4,3,3,Long-Term,Low
+317,49,0,Rarely,"Research & Development",1,2,"Technical Degree",F,"Healthcare Representative",S,13964,7,1,25,7,3,3,2,Medium-Term,High
+318,52,1,Rarely,"Research & Development",8,4,Medical,M,"Research Scientist",M,4941,2,0,11,8,2,2,2,Long-Term,Medium
+319,27,0,Rarely,"Research & Development",5,3,"Life Sciences",F,"Research Scientist",S,2478,1,1,4,4,2,2,3,Medium-Term,Low
+320,32,0,Rarely,Sales,8,2,"Technical Degree",F,"Sales Executive",M,5228,1,1,13,13,2,3,2,Long-Term,Medium
+321,27,0,Rarely,Sales,2,3,"Life Sciences",M,"Sales Executive",S,4478,1,1,5,5,3,3,3,Medium-Term,Medium
+322,31,0,Rarely,Sales,7,3,Marketing,M,"Sales Executive",D,7547,4,0,13,7,4,3,3,Medium-Term,Medium
+323,32,0,Rarely,"Research & Development",2,4,Medical,F,"Research Scientist",S,5055,7,0,10,7,4,2,4,Medium-Term,Medium
+324,28,1,Rarely,"Research & Development",2,4,Medical,M,"Research Scientist",M,3464,5,1,5,3,4,2,1,Medium-Term,Medium
+325,30,0,Rarely,"Research & Development",28,2,Medical,F,"Research Scientist",M,5775,1,0,11,10,4,3,3,Long-Term,Medium
+326,31,0,Frequently,"Research & Development",7,2,"Life Sciences",F,"Manufacturing Director",M,8943,1,0,10,10,3,3,2,Long-Term,High
+327,39,0,Frequently,"Research & Development",7,2,Medical,M,Manager,M,19272,1,0,21,21,4,3,2,Long-Term,High
+328,39,1,Rarely,Sales,3,2,Medical,F,"Sales Executive",M,5238,4,1,12,1,3,2,3,Short-Term,Medium
+329,33,0,Frequently,Sales,10,3,Marketing,M,"Sales Executive",S,4682,3,0,9,7,4,2,2,Medium-Term,Medium
+330,47,0,Rarely,"Research & Development",5,5,"Life Sciences",M,"Research Director",M,18300,4,0,21,3,3,3,3,Medium-Term,High
+331,43,0,Frequently,"Research & Development",10,4,"Life Sciences",F,"Laboratory Technician",D,5257,1,0,9,9,3,4,2,Long-Term,Medium
+332,27,0,"No Travel",Sales,1,1,Marketing,M,"Sales Executive",M,6349,0,1,6,5,2,3,3,Medium-Term,Medium
+333,54,0,Frequently,"Research & Development",20,4,"Life Sciences",F,"Research Scientist",S,4869,3,0,20,4,3,2,3,Medium-Term,Medium
+334,43,0,Rarely,"Research & Development",7,3,"Life Sciences",F,"Healthcare Representative",M,9985,8,0,10,1,1,2,3,Short-Term,High
+335,45,0,Rarely,"Research & Development",8,4,Other,M,"Research Scientist",M,3697,9,0,12,10,4,3,3,Long-Term,Medium
+336,40,0,Rarely,Sales,1,2,Medical,M,"Sales Executive",M,7457,2,1,6,4,4,2,1,Medium-Term,Medium
+337,29,1,Rarely,"Research & Development",8,4,Other,M,"Laboratory Technician",M,2119,1,1,7,7,1,2,1,Medium-Term,Low
+338,29,0,Rarely,"Research & Development",9,5,Other,M,"Laboratory Technician",S,3983,0,0,4,3,4,3,2,Medium-Term,Medium
+339,30,0,Rarely,Sales,5,3,Marketing,F,"Sales Executive",D,6118,1,0,10,10,3,3,2,Long-Term,Medium
+340,27,0,Rarely,Sales,8,4,Marketing,F,"Sales Executive",M,6214,1,0,8,8,2,3,3,Long-Term,Medium
+341,37,0,Rarely,"Research & Development",5,2,Medical,M,"Manufacturing Director",D,6347,7,0,8,6,4,2,3,Medium-Term,Medium
+342,38,0,Rarely,"Research & Development",15,2,"Life Sciences",M,"Research Director",D,11510,0,1,12,11,4,3,2,Long-Term,High
+343,31,0,Rarely,"Research & Development",7,4,Medical,F,"Manufacturing Director",S,7143,1,1,11,11,4,2,3,Long-Term,Medium
+344,29,0,Rarely,Sales,10,1,Marketing,F,"Sales Executive",D,8268,1,1,7,7,2,3,2,Medium-Term,High
+345,35,0,Rarely,"Research & Development",5,4,"Technical Degree",M,"Manufacturing Director",S,8095,0,0,17,16,2,3,3,Long-Term,High
+346,23,0,Rarely,"Research & Development",26,1,"Life Sciences",M,"Research Scientist",D,2904,1,0,4,4,4,2,3,Medium-Term,Low
+347,41,0,Rarely,"Research & Development",6,3,Medical,M,"Manufacturing Director",S,6032,6,1,8,5,2,3,2,Medium-Term,Medium
+348,47,0,Frequently,Sales,4,1,Medical,M,"Sales Representative",S,2976,3,0,5,0,3,3,3,Short-Term,Low
+349,42,0,Rarely,"Research & Development",23,5,"Life Sciences",F,"Research Director",S,15992,2,0,16,1,4,3,3,Short-Term,High
+350,29,0,"No Travel",Sales,2,3,"Life Sciences",M,"Sales Executive",M,4649,1,0,4,4,3,2,3,Medium-Term,Medium
+351,42,0,Rarely,"Human Resources",2,1,"Technical Degree",M,"Human Resources",D,2696,0,1,4,3,3,3,3,Medium-Term,Low
+352,32,0,Rarely,"Research & Development",2,3,Medical,F,"Laboratory Technician",M,2370,1,0,8,8,2,3,3,Long-Term,Low
+353,48,0,Rarely,Sales,29,1,Medical,F,Manager,M,12504,3,0,15,0,3,1,3,Short-Term,High
+354,37,0,Rarely,"Research & Development",6,3,Medical,M,"Research Scientist",D,5974,4,1,13,7,1,3,4,Medium-Term,Medium
+355,30,0,"No Travel",Sales,25,2,"Technical Degree",F,"Sales Executive",M,4736,7,1,4,2,3,4,3,Short-Term,Medium
+356,26,0,Rarely,Sales,1,3,"Life Sciences",M,"Sales Executive",M,5296,1,0,8,8,3,3,3,Long-Term,Medium
+357,42,0,Rarely,"Research & Development",2,4,Other,M,"Healthcare Representative",S,6781,3,0,14,1,4,3,2,Short-Term,Medium
+358,21,1,Frequently,Sales,1,1,"Technical Degree",F,"Sales Representative",S,2174,1,1,3,3,2,3,2,Medium-Term,Low
+359,36,0,"No Travel",Sales,1,5,Medical,F,"Sales Executive",S,6653,4,0,7,1,4,3,3,Short-Term,Medium
+360,36,0,Frequently,Sales,3,4,Medical,M,"Sales Executive",M,9699,4,0,16,13,4,3,2,Long-Term,High
+361,57,0,Rarely,"Research & Development",1,4,Medical,M,"Healthcare Representative",M,6755,2,0,15,3,3,3,3,Medium-Term,Medium
+362,40,0,Rarely,"Research & Development",10,4,"Life Sciences",F,"Laboratory Technician",M,2213,3,1,10,7,3,3,4,Medium-Term,Low
+363,21,0,"No Travel",Sales,9,2,Medical,M,"Sales Representative",S,2610,1,0,3,3,4,2,3,Medium-Term,Low
+364,33,1,Rarely,Sales,5,3,Marketing,F,"Sales Representative",S,2851,1,1,1,1,3,3,3,Short-Term,Low
+365,37,0,Rarely,"Research & Development",10,3,Medical,F,"Laboratory Technician",M,3452,6,0,17,5,1,3,3,Medium-Term,Medium
+366,46,0,"No Travel","Research & Development",7,4,Medical,F,"Manufacturing Director",M,5258,2,0,7,1,3,4,3,Short-Term,Medium
+367,41,1,Frequently,Sales,4,3,Marketing,M,"Sales Executive",S,9355,1,0,8,8,2,3,3,Long-Term,High
+368,50,0,Rarely,"Research & Development",10,3,"Technical Degree",M,"Healthcare Representative",S,10496,6,0,20,4,4,3,2,Medium-Term,High
+369,40,1,Rarely,Sales,22,2,Marketing,M,"Sales Executive",M,6380,2,1,8,6,3,3,2,Medium-Term,Medium
+370,31,0,Rarely,"Research & Development",9,4,"Life Sciences",M,"Research Scientist",S,2657,0,1,3,2,2,3,2,Short-Term,Low
+371,21,1,Rarely,Sales,12,3,"Life Sciences",F,"Sales Representative",S,2716,1,0,1,1,2,3,4,Short-Term,Low
+372,29,0,Rarely,"Research & Development",23,3,"Life Sciences",M,"Research Scientist",S,2201,9,0,6,3,4,3,3,Medium-Term,Low
+373,35,0,Rarely,"Research & Development",9,4,"Life Sciences",M,"Healthcare Representative",S,6540,9,0,10,1,2,3,2,Short-Term,Medium
+374,27,0,Rarely,"Research & Development",1,2,Medical,M,"Laboratory Technician",D,3816,1,0,5,5,2,3,3,Medium-Term,Medium
+375,28,0,Rarely,Sales,9,4,"Life Sciences",M,"Sales Executive",S,5253,1,0,7,7,4,3,3,Medium-Term,Medium
+376,49,0,Rarely,"Research & Development",7,3,Other,M,"Healthcare Representative",S,10965,8,0,26,5,3,3,2,Medium-Term,High
+377,51,0,Rarely,Sales,14,2,"Life Sciences",F,"Sales Executive",M,4936,4,0,18,7,4,2,3,Medium-Term,Medium
+378,36,0,Rarely,"Research & Development",2,3,"Life Sciences",F,"Research Scientist",M,2543,4,0,6,2,3,3,3,Short-Term,Low
+379,34,1,"No Travel",Sales,19,3,Marketing,M,"Sales Executive",S,5304,8,1,9,5,4,2,4,Medium-Term,Medium
+380,55,0,Rarely,"Research & Development",2,3,"Life Sciences",F,Manager,S,16659,2,1,30,5,4,3,3,Medium-Term,High
+381,24,0,Rarely,Sales,10,4,Marketing,F,"Sales Executive",D,4260,1,1,5,5,3,4,3,Medium-Term,Medium
+382,30,0,Rarely,Sales,2,1,"Technical Degree",M,"Sales Representative",M,2476,1,0,1,1,2,3,3,Short-Term,Low
+383,26,1,Frequently,"Research & Development",3,1,"Technical Degree",M,"Research Scientist",S,3102,0,0,7,6,1,3,3,Medium-Term,Medium
+384,22,0,Rarely,"Research & Development",11,3,Medical,F,"Research Scientist",M,2244,1,0,2,2,2,3,3,Short-Term,Low
+385,36,0,Rarely,Sales,2,2,Medical,M,"Sales Executive",M,7596,1,0,10,10,3,3,2,Long-Term,Medium
+386,30,1,Frequently,"Research & Development",4,3,"Technical Degree",M,"Research Scientist",S,2285,9,1,3,1,4,3,3,Short-Term,Low
+387,37,0,Rarely,"Research & Development",14,3,"Life Sciences",F,"Laboratory Technician",D,3034,1,0,18,18,1,2,3,Long-Term,Medium
+388,40,0,Rarely,Sales,2,2,Marketing,F,"Sales Executive",D,5715,7,0,8,5,2,3,3,Medium-Term,Medium
+389,42,0,Rarely,"Research & Development",1,4,"Life Sciences",F,"Laboratory Technician",D,2576,3,0,8,5,1,3,3,Medium-Term,Low
+390,37,0,Rarely,"Research & Development",10,4,"Life Sciences",M,"Manufacturing Director",S,4197,2,1,18,1,2,2,3,Short-Term,Medium
+391,43,0,Rarely,"Research & Development",12,3,"Life Sciences",M,"Research Director",D,14336,1,0,25,25,2,3,2,Long-Term,High
+392,40,0,Rarely,"Research & Development",2,3,Medical,F,"Laboratory Technician",M,3448,6,0,20,1,3,3,2,Short-Term,Medium
+393,54,0,Rarely,"Research & Development",5,2,Medical,M,"Research Director",M,19406,4,0,24,4,1,2,3,Medium-Term,High
+394,34,0,"No Travel",Sales,4,4,Marketing,F,"Sales Executive",M,6538,9,0,6,3,3,3,3,Medium-Term,Medium
+395,31,0,Rarely,"Research & Development",7,2,Medical,F,"Manufacturing Director",M,4306,1,0,13,13,1,1,3,Long-Term,Medium
+396,43,0,Frequently,"Research & Development",21,3,Medical,M,"Laboratory Technician",M,2258,7,0,8,3,4,3,3,Medium-Term,Low
+397,43,0,Rarely,"Research & Development",8,4,Other,F,"Healthcare Representative",D,4522,4,1,8,5,3,3,3,Medium-Term,Medium
+398,25,0,Rarely,Sales,4,2,"Life Sciences",F,"Sales Executive",S,4487,1,1,5,5,4,3,2,Medium-Term,Medium
+399,37,0,"No Travel","Research & Development",25,5,Medical,F,"Research Scientist",M,4449,3,1,15,13,3,3,3,Long-Term,Medium
+400,31,0,Rarely,"Research & Development",1,2,"Life Sciences",M,"Laboratory Technician",M,2218,1,0,4,4,1,3,2,Medium-Term,Low
+401,39,0,Frequently,"Research & Development",1,1,"Life Sciences",M,Manager,D,19197,1,1,21,21,3,3,3,Long-Term,High
+402,56,0,Frequently,Sales,6,3,"Life Sciences",F,"Sales Executive",M,13212,9,0,36,7,1,2,4,Medium-Term,High
+403,30,0,Rarely,Sales,12,3,"Technical Degree",F,"Sales Executive",S,6577,0,0,6,5,3,3,3,Medium-Term,Medium
+404,41,0,Rarely,Sales,1,3,Marketing,M,"Sales Executive",M,8392,1,0,10,10,1,3,4,Long-Term,High
+405,28,0,Rarely,"Research & Development",17,2,Medical,M,"Laboratory Technician",D,4558,1,0,10,10,1,3,3,Long-Term,Medium
+406,25,1,Rarely,"Research & Development",3,3,Medical,M,"Laboratory Technician",M,4031,5,0,6,2,1,3,3,Short-Term,Medium
+407,52,0,Rarely,"Research & Development",3,3,Medical,M,"Manufacturing Director",M,7969,2,1,28,5,3,3,2,Medium-Term,Medium
+408,45,0,Rarely,"Research & Development",10,2,"Life Sciences",M,"Research Scientist",M,2654,3,0,8,2,4,2,3,Short-Term,Low
+409,52,0,Rarely,"Research & Development",4,2,"Life Sciences",F,Manager,M,16555,2,0,31,5,4,1,3,Medium-Term,High
+410,42,0,Frequently,"Research & Development",29,2,"Life Sciences",F,"Research Scientist",D,4556,2,0,19,5,3,3,3,Medium-Term,Medium
+411,30,0,Rarely,"Research & Development",2,3,"Life Sciences",F,"Manufacturing Director",S,6091,2,0,11,5,4,3,1,Medium-Term,Medium
+412,60,0,Rarely,"Research & Development",7,3,"Life Sciences",F,Manager,M,19509,5,0,33,29,1,1,3,Long-Term,High
+413,46,0,Rarely,"Research & Development",18,3,Medical,F,"Manufacturing Director",D,4810,2,0,19,10,3,2,3,Long-Term,Medium
+414,42,0,Frequently,"Research & Development",28,4,"Technical Degree",F,"Healthcare Representative",M,4523,0,0,7,6,4,4,2,Medium-Term,Medium
+415,24,1,Rarely,Sales,1,1,"Technical Degree",F,"Sales Representative",S,3202,1,1,6,5,2,3,3,Medium-Term,Medium
+416,34,1,Frequently,Sales,6,2,Marketing,F,"Sales Representative",D,2351,0,0,3,2,3,2,1,Short-Term,Low
+417,38,0,Frequently,"Research & Development",2,2,"Life Sciences",M,"Laboratory Technician",M,1702,1,1,1,1,4,3,3,Short-Term,Low
+418,40,0,Rarely,Sales,2,4,"Life Sciences",F,Manager,M,18041,0,0,21,20,3,3,3,Long-Term,High
+419,26,0,Rarely,"Research & Development",23,3,"Life Sciences",F,"Research Scientist",D,2886,1,0,3,3,4,1,3,Medium-Term,Low
+420,30,0,"No Travel","Research & Development",3,3,"Life Sciences",M,"Laboratory Technician",M,2097,4,0,9,5,4,1,3,Medium-Term,Low
+421,29,0,Rarely,"Research & Development",3,4,Medical,M,"Research Director",M,11935,1,0,10,10,3,3,2,Long-Term,High
+422,29,1,Rarely,"Research & Development",25,5,"Technical Degree",F,"Research Scientist",M,2546,5,0,6,2,2,4,2,Short-Term,Low
+423,19,1,Rarely,"Human Resources",2,2,"Technical Degree",M,"Human Resources",S,2564,1,0,1,1,4,4,2,Short-Term,Low
+424,30,0,"No Travel",Sales,22,4,Other,F,"Sales Executive",M,8412,0,0,10,9,1,3,3,Long-Term,High
+425,57,0,Rarely,Sales,29,3,Marketing,M,Manager,D,14118,3,0,32,1,4,2,2,Short-Term,High
+426,50,0,Rarely,"Research & Development",29,4,"Life Sciences",M,Manager,M,17046,0,0,28,27,3,3,2,Long-Term,High
+427,30,0,"No Travel","Research & Development",2,3,Medical,F,"Laboratory Technician",S,2564,0,0,12,11,4,2,3,Long-Term,Low
+428,60,0,Frequently,Sales,28,3,Marketing,F,"Sales Executive",M,10266,4,0,22,18,1,4,2,Long-Term,High
+429,47,0,Rarely,"Research & Development",2,2,Medical,F,"Manufacturing Director",D,5070,5,0,20,5,4,3,3,Medium-Term,Medium
+430,46,0,Rarely,"Research & Development",2,3,"Life Sciences",M,"Research Director",M,17861,6,0,26,3,3,1,3,Medium-Term,High
+431,35,0,Rarely,"Research & Development",22,3,"Life Sciences",M,"Laboratory Technician",S,4230,0,0,6,5,3,3,1,Medium-Term,Medium
+432,54,0,Rarely,"Research & Development",8,4,"Life Sciences",F,"Laboratory Technician",S,3780,7,0,19,1,3,3,3,Short-Term,Medium
+433,34,0,Rarely,"Research & Development",2,4,"Life Sciences",M,"Research Scientist",D,2768,3,0,14,7,3,3,2,Medium-Term,Low
+434,46,0,Rarely,Sales,10,3,Marketing,F,"Sales Executive",M,9071,2,1,15,3,4,3,2,Medium-Term,High
+435,31,0,Rarely,"Research & Development",9,1,"Life Sciences",M,"Manufacturing Director",D,10648,1,0,13,13,2,4,3,Long-Term,High
+436,33,1,Rarely,"Research & Development",15,1,Medical,M,Manager,M,13610,7,1,15,7,3,4,3,Medium-Term,High
+437,33,1,Rarely,"Research & Development",10,1,Medical,M,"Laboratory Technician",D,3408,7,0,8,4,4,3,1,Medium-Term,Medium
+438,30,0,Rarely,Sales,7,1,Marketing,M,"Sales Representative",S,2983,0,0,4,3,2,3,3,Medium-Term,Low
+439,35,0,Rarely,"Research & Development",16,3,"Life Sciences",M,"Healthcare Representative",M,7632,4,1,10,8,3,3,3,Long-Term,Medium
+440,31,1,Frequently,"Research & Development",20,3,"Life Sciences",M,"Healthcare Representative",M,9824,3,0,12,1,3,3,3,Short-Term,High
+441,34,1,Frequently,"Human Resources",23,3,"Human Resources",F,"Human Resources",D,9950,9,1,11,3,1,3,3,Medium-Term,High
+442,42,0,Frequently,"Research & Development",5,2,Other,M,"Laboratory Technician",M,2093,4,0,8,2,3,3,3,Short-Term,Low
+443,36,0,"No Travel",Sales,10,4,Medical,M,"Sales Executive",S,9980,1,0,10,10,4,2,3,Long-Term,High
+444,22,1,Frequently,"Research & Development",4,1,"Technical Degree",M,"Laboratory Technician",S,3894,5,0,4,2,3,3,2,Short-Term,Medium
+445,48,0,Rarely,Sales,2,5,Marketing,F,"Sales Executive",M,4051,2,0,14,9,4,3,3,Long-Term,Medium
+446,55,0,Rarely,Sales,18,5,"Life Sciences",F,Manager,S,16835,3,0,37,10,2,3,3,Long-Term,High
+447,41,0,"No Travel",Sales,10,2,"Life Sciences",M,"Sales Executive",S,6230,7,0,16,14,4,3,3,Long-Term,Medium
+448,35,0,Rarely,Sales,1,3,Marketing,M,"Sales Executive",M,4717,9,0,15,11,3,3,3,Long-Term,Medium
+449,40,0,Rarely,"Research & Development",6,3,"Life Sciences",F,"Manufacturing Director",S,13237,7,0,22,20,3,3,3,Long-Term,High
+450,39,0,Frequently,"Research & Development",8,1,"Life Sciences",F,"Laboratory Technician",M,3755,1,0,8,8,3,3,3,Long-Term,Medium
+451,31,0,Rarely,Sales,2,1,"Life Sciences",M,"Sales Executive",S,6582,4,1,10,6,4,4,3,Medium-Term,Medium
+452,42,0,Rarely,"Research & Development",24,3,Medical,M,"Manufacturing Director",M,7406,1,1,10,10,1,2,3,Long-Term,Medium
+453,45,0,Rarely,Sales,2,3,Other,M,"Sales Executive",M,4805,0,0,9,8,2,4,3,Long-Term,Medium
+454,26,1,Frequently,"Human Resources",17,4,"Life Sciences",F,"Human Resources",D,2741,0,1,8,7,3,2,3,Medium-Term,Low
+455,29,0,Rarely,"Research & Development",19,3,"Technical Degree",M,"Manufacturing Director",D,4262,4,0,8,3,4,4,3,Medium-Term,Medium
+456,33,0,Rarely,"Research & Development",1,5,Medical,F,"Research Director",D,16184,4,0,10,6,3,3,4,Medium-Term,High
+457,31,0,Rarely,Sales,7,3,"Life Sciences",M,Manager,D,11557,9,0,10,5,4,2,2,Medium-Term,High
+458,18,1,Frequently,Sales,5,3,Marketing,M,"Sales Representative",S,1878,1,1,0,0,2,3,3,Short-Term,Low
+459,40,0,"No Travel",Sales,28,3,Other,M,"Sales Executive",D,10932,3,0,20,1,1,3,1,Short-Term,High
+460,41,0,"No Travel","Research & Development",2,4,Other,F,"Healthcare Representative",S,6811,2,1,10,8,3,3,2,Long-Term,Medium
+461,26,0,Rarely,Sales,29,2,Medical,M,"Sales Executive",D,4306,5,0,8,0,3,3,3,Short-Term,Medium
+462,35,0,Rarely,Sales,1,3,Medical,F,"Sales Executive",S,4859,1,0,5,5,3,3,3,Medium-Term,Medium
+463,34,0,Rarely,Sales,21,4,"Life Sciences",M,"Sales Executive",S,5337,1,0,10,10,4,3,4,Long-Term,Medium
+464,26,1,Rarely,"Research & Development",24,3,"Technical Degree",M,"Laboratory Technician",S,2340,1,1,1,1,4,1,1,Short-Term,Low
+465,37,0,Rarely,"Research & Development",1,3,"Technical Degree",F,"Manufacturing Director",S,7491,4,0,12,6,4,4,3,Medium-Term,Medium
+466,46,0,Frequently,"Research & Development",18,1,Medical,F,"Healthcare Representative",M,10527,5,0,28,2,3,2,3,Short-Term,High
+467,41,0,Rarely,Sales,2,5,"Life Sciences",F,Manager,M,16595,7,0,22,18,1,3,3,Long-Term,High
+468,37,0,"No Travel",Sales,9,4,Medical,M,"Sales Executive",D,8834,1,0,9,9,2,3,3,Long-Term,High
+469,52,0,Rarely,"Research & Development",6,2,"Technical Degree",M,"Research Scientist",D,5577,3,1,18,10,1,3,3,Long-Term,Medium
+470,32,1,"No Travel",Sales,11,4,Other,M,"Sales Executive",M,4707,8,0,6,4,3,3,4,Medium-Term,Medium
+471,24,0,Frequently,Sales,24,3,Medical,M,"Sales Representative",M,2400,0,0,3,2,4,3,3,Short-Term,Low
+472,38,0,Rarely,"Research & Development",10,3,Medical,F,"Healthcare Representative",M,9824,3,0,18,1,3,3,3,Short-Term,High
+473,37,0,Rarely,"Research & Development",1,4,"Life Sciences",F,"Manufacturing Director",M,6447,6,0,8,6,2,2,3,Medium-Term,Medium
+474,49,0,Rarely,"Research & Development",18,4,"Life Sciences",M,"Research Director",D,19502,1,1,31,31,3,3,2,Long-Term,High
+475,24,0,Rarely,"Research & Development",23,3,Medical,M,"Research Scientist",M,2725,1,1,6,6,4,3,4,Medium-Term,Low
+476,26,0,Rarely,Sales,28,2,Marketing,M,"Sales Executive",M,6272,1,0,6,5,2,4,3,Medium-Term,Medium
+477,24,0,Rarely,"Research & Development",17,2,Other,M,"Laboratory Technician",M,2127,1,0,1,1,2,3,2,Short-Term,Low
+478,50,0,Frequently,"Human Resources",3,3,Medical,M,Manager,M,18200,1,0,32,32,2,3,3,Long-Term,High
+479,25,0,Rarely,Sales,13,1,Medical,M,"Sales Representative",M,2096,1,0,7,7,3,3,3,Medium-Term,Low
+480,24,1,Frequently,"Research & Development",7,3,"Life Sciences",F,"Laboratory Technician",M,2886,1,1,6,6,3,3,3,Medium-Term,Low
+481,30,1,Frequently,Sales,12,4,"Life Sciences",M,"Sales Representative",M,2033,1,0,1,1,1,4,2,Short-Term,Low
+482,34,0,Rarely,"Research & Development",1,2,"Life Sciences",M,"Research Scientist",M,3622,1,1,6,6,4,3,2,Medium-Term,Medium
+483,31,1,Rarely,Sales,13,4,Medical,M,"Sales Executive",D,4233,2,0,9,3,1,1,3,Medium-Term,Medium
+484,35,0,Rarely,"Research & Development",25,2,Other,M,"Laboratory Technician",S,3681,4,0,9,3,4,3,2,Medium-Term,Medium
+485,31,0,Rarely,Sales,6,4,Medical,M,"Sales Executive",D,5460,4,0,13,7,4,4,4,Medium-Term,Medium
+486,27,0,Rarely,"Research & Development",6,4,Medical,F,"Research Scientist",D,2187,0,0,6,5,3,2,2,Medium-Term,Low
+487,37,0,Rarely,Sales,2,3,Marketing,M,"Sales Executive",M,9602,4,1,17,3,3,2,3,Medium-Term,High
+488,20,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Research Scientist",S,2836,1,0,1,1,2,4,2,Short-Term,Low
+489,42,0,Rarely,"Research & Development",2,4,"Life Sciences",F,"Healthcare Representative",M,4089,1,0,10,10,4,3,3,Long-Term,Medium
+490,43,0,Rarely,"Research & Development",6,4,Other,M,"Research Director",D,16627,4,1,21,1,4,2,2,Short-Term,High
+491,38,0,Rarely,"Research & Development",1,1,"Life Sciences",F,"Research Scientist",S,2619,3,0,8,0,1,2,3,Short-Term,Low
+492,43,0,Frequently,"Research & Development",9,5,Medical,M,"Laboratory Technician",D,5679,3,1,10,8,3,3,3,Long-Term,Medium
+493,48,0,Rarely,"Research & Development",1,4,"Life Sciences",F,Manager,M,15402,7,0,21,3,1,1,2,Medium-Term,High
+494,44,0,Rarely,"Human Resources",1,4,"Life Sciences",F,"Human Resources",S,5985,4,0,10,2,3,4,2,Short-Term,Medium
+495,34,0,Rarely,Sales,14,3,"Technical Degree",F,"Sales Representative",D,2579,1,1,8,8,3,3,3,Long-Term,Low
+496,27,1,Rarely,Sales,2,1,Marketing,M,"Sales Representative",D,3041,0,0,5,4,1,3,3,Medium-Term,Medium
+497,21,0,Rarely,Sales,22,1,"Technical Degree",M,"Sales Representative",S,3447,1,0,3,3,3,3,3,Medium-Term,Medium
+498,44,0,Rarely,"Research & Development",3,4,Other,M,Manager,M,19509,4,1,26,2,4,4,3,Short-Term,High
+499,22,0,Rarely,"Research & Development",6,1,Medical,M,"Research Scientist",M,2773,0,0,3,2,3,3,3,Short-Term,Low
+500,33,0,Rarely,Sales,8,4,Marketing,M,"Sales Executive",D,7104,0,0,6,5,3,3,3,Medium-Term,Medium
+501,32,0,Rarely,"Research & Development",9,4,"Life Sciences",F,"Research Scientist",M,6322,1,1,6,6,4,2,3,Medium-Term,Medium
+502,30,0,Frequently,"Research & Development",3,3,Medical,F,"Research Scientist",D,2083,1,0,1,1,3,3,3,Short-Term,Low
+503,53,0,Rarely,Sales,1,1,Medical,F,"Sales Executive",S,8381,7,0,18,14,1,4,3,Long-Term,High
+504,34,0,Rarely,"Research & Development",1,5,"Life Sciences",M,"Research Scientist",M,2691,1,0,10,10,4,2,3,Long-Term,Low
+505,45,1,Frequently,Sales,26,4,"Life Sciences",F,"Sales Executive",M,4286,2,0,5,1,1,3,3,Short-Term,Medium
+506,26,0,Rarely,"Research & Development",6,3,"Life Sciences",F,"Laboratory Technician",M,2659,1,1,3,3,4,3,3,Medium-Term,Low
+507,37,0,Rarely,"Research & Development",3,3,Other,M,"Manufacturing Director",M,9434,1,0,10,10,3,3,3,Long-Term,High
+508,29,0,Rarely,Sales,3,2,Medical,F,"Sales Executive",M,5561,1,0,6,6,3,2,3,Medium-Term,Medium
+509,35,0,Rarely,"Research & Development",6,4,"Life Sciences",M,"Research Scientist",S,6646,1,0,17,17,4,3,1,Long-Term,Medium
+510,33,0,Frequently,"Research & Development",6,3,"Life Sciences",M,"Healthcare Representative",D,7725,3,0,15,13,4,1,3,Long-Term,Medium
+511,54,0,Rarely,"Human Resources",19,4,Medical,M,"Human Resources",M,10725,2,0,16,9,2,4,3,Long-Term,High
+512,36,0,Rarely,"Research & Development",9,2,Medical,M,"Manufacturing Director",D,8847,2,1,13,3,2,3,2,Medium-Term,High
+513,27,0,Rarely,"Research & Development",3,4,Medical,M,"Research Scientist",S,2045,0,0,5,4,4,3,2,Medium-Term,Low
+514,20,1,Rarely,"Research & Development",10,1,Medical,M,"Research Scientist",S,1009,1,1,1,1,3,3,3,Short-Term,Low
+515,33,1,Frequently,"Research & Development",3,3,"Life Sciences",M,"Research Scientist",S,3348,1,1,10,10,1,3,3,Long-Term,Medium
+516,35,0,"No Travel","Research & Development",3,3,"Life Sciences",M,"Laboratory Technician",M,1281,1,0,1,1,3,3,2,Short-Term,Low
+517,23,0,Rarely,"Research & Development",4,3,Medical,M,"Research Scientist",M,2819,2,0,5,3,1,4,4,Medium-Term,Low
+518,25,0,Rarely,Sales,8,3,"Life Sciences",M,"Sales Executive",M,4851,0,0,4,3,2,3,4,Medium-Term,Medium
+519,38,0,Rarely,Sales,7,4,Marketing,F,"Sales Executive",S,4028,0,0,8,7,4,3,2,Medium-Term,Medium
+520,29,0,Frequently,"Research & Development",1,4,"Life Sciences",M,"Research Scientist",D,2720,1,0,10,10,4,3,1,Long-Term,Low
+521,48,0,Rarely,Sales,2,1,Marketing,M,"Sales Executive",M,8120,3,0,12,2,2,3,4,Short-Term,High
+522,27,0,Frequently,Sales,3,1,Medical,F,"Sales Executive",D,4647,1,1,6,6,4,3,4,Medium-Term,Medium
+523,37,0,Rarely,"Research & Development",10,2,"Life Sciences",M,"Research Scientist",S,4680,3,0,4,1,4,3,4,Short-Term,Medium
+524,50,0,Rarely,"Research & Development",28,1,Medical,M,"Laboratory Technician",M,3221,1,1,20,20,3,3,4,Long-Term,Medium
+525,34,0,Rarely,"Research & Development",9,3,Medical,F,"Healthcare Representative",S,8621,1,0,9,8,2,4,2,Long-Term,High
+526,24,1,Rarely,Sales,3,2,"Life Sciences",F,"Sales Executive",S,4577,9,0,4,2,3,3,3,Short-Term,Medium
+527,39,0,Rarely,"Research & Development",2,4,"Technical Degree",F,"Healthcare Representative",S,4553,1,0,20,20,3,3,2,Long-Term,Medium
+528,32,0,Rarely,Sales,10,3,Marketing,M,"Sales Executive",S,5396,1,0,10,10,4,2,3,Long-Term,Medium
+529,50,1,Frequently,Sales,8,2,"Technical Degree",M,"Sales Executive",M,6796,3,1,18,4,3,3,3,Medium-Term,Medium
+530,38,0,Rarely,"Research & Development",1,4,"Life Sciences",F,"Healthcare Representative",S,7625,0,0,10,9,4,2,4,Long-Term,Medium
+531,27,0,Rarely,"Research & Development",1,2,"Life Sciences",F,"Manufacturing Director",M,7412,1,0,9,9,1,3,3,Long-Term,Medium
+532,32,0,Rarely,"Research & Development",3,2,"Life Sciences",F,"Research Director",S,11159,3,0,10,7,4,3,3,Medium-Term,High
+533,47,0,Rarely,Sales,14,4,Marketing,M,"Sales Executive",S,4960,2,0,20,7,1,3,3,Medium-Term,Medium
+534,40,0,Frequently,Sales,5,4,"Life Sciences",M,"Sales Executive",M,10475,5,1,20,18,1,3,2,Long-Term,High
+535,53,0,Rarely,"Research & Development",7,3,"Life Sciences",M,"Research Director",M,14814,3,0,32,5,3,3,4,Medium-Term,High
+536,41,0,Rarely,"Human Resources",10,4,"Human Resources",M,Manager,D,19141,3,0,23,21,4,2,2,Long-Term,High
+537,60,0,Rarely,Sales,16,4,Marketing,M,"Sales Executive",S,5405,8,0,10,2,1,3,3,Short-Term,Medium
+538,27,0,Frequently,"Research & Development",10,2,"Life Sciences",M,"Manufacturing Director",D,8793,1,0,9,9,1,2,3,Long-Term,High
+539,41,0,Rarely,"Human Resources",1,3,"Human Resources",M,Manager,M,19189,1,0,22,22,3,3,2,Long-Term,High
+540,50,0,Rarely,Sales,8,4,Marketing,M,"Sales Representative",M,3875,7,0,4,2,2,3,3,Short-Term,Medium
+541,28,1,Rarely,"Research & Development",1,2,"Life Sciences",F,"Research Scientist",S,2216,7,1,10,7,2,3,1,Medium-Term,Low
+542,36,0,"No Travel","Research & Development",8,3,"Life Sciences",F,"Research Director",M,11713,9,0,10,8,1,3,4,Long-Term,High
+543,38,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Manufacturing Director",S,7861,4,1,10,1,3,4,3,Short-Term,Medium
+544,44,0,"No Travel","Research & Development",24,3,Medical,M,"Laboratory Technician",S,3708,2,0,9,5,3,3,1,Medium-Term,Medium
+545,47,0,Frequently,Sales,3,3,Medical,F,"Sales Executive",D,13770,9,1,28,22,3,2,3,Long-Term,High
+546,30,0,Rarely,Sales,27,5,Marketing,M,"Sales Executive",D,5304,7,0,10,8,4,2,3,Long-Term,Medium
+547,29,0,Rarely,Sales,10,3,"Life Sciences",M,"Sales Representative",S,2642,1,0,1,1,3,3,3,Short-Term,Low
+548,42,1,Frequently,"Research & Development",19,3,Medical,M,"Research Scientist",D,2759,6,1,7,2,3,3,4,Short-Term,Low
+549,43,0,Frequently,Sales,15,3,"Life Sciences",M,"Sales Executive",M,6804,3,0,7,2,4,3,2,Short-Term,Medium
+550,34,0,Rarely,"Research & Development",8,2,Medical,F,"Healthcare Representative",S,6142,3,0,10,5,3,3,3,Medium-Term,Medium
+551,23,0,Rarely,"Research & Development",9,1,Medical,M,"Laboratory Technician",M,2500,1,0,5,4,1,4,3,Medium-Term,Low
+552,39,0,Rarely,"Human Resources",3,3,"Human Resources",F,"Human Resources",M,6389,9,0,12,8,2,1,4,Long-Term,Medium
+553,56,0,Rarely,"Research & Development",9,3,Medical,M,"Healthcare Representative",M,11103,7,0,30,10,4,2,3,Long-Term,High
+554,40,0,Rarely,"Research & Development",2,1,Medical,F,"Research Scientist",S,2342,0,1,5,4,4,2,2,Medium-Term,Low
+555,27,0,Rarely,"Research & Development",7,3,Medical,F,"Healthcare Representative",S,6811,8,0,9,7,1,1,2,Medium-Term,Medium
+556,29,0,Rarely,Sales,10,3,Marketing,M,"Sales Representative",D,2297,1,0,2,2,2,3,3,Short-Term,Low
+557,53,0,Rarely,"Research & Development",6,3,"Life Sciences",M,"Laboratory Technician",S,2450,2,0,19,2,4,3,3,Short-Term,Low
+558,35,0,"No Travel","Research & Development",2,4,"Life Sciences",F,"Healthcare Representative",D,5093,2,0,16,1,1,4,3,Short-Term,Medium
+559,32,0,Frequently,"Research & Development",24,4,"Life Sciences",M,"Laboratory Technician",M,5309,1,0,10,10,4,3,3,Long-Term,Medium
+560,38,0,Rarely,"Research & Development",2,5,Medical,M,"Research Scientist",M,3057,6,1,6,1,3,1,3,Short-Term,Medium
+561,34,0,Rarely,"Research & Development",8,5,"Life Sciences",F,"Manufacturing Director",D,5121,3,0,7,0,1,3,3,Short-Term,Medium
+562,52,0,Rarely,Sales,3,4,Marketing,M,Manager,M,16856,1,0,34,34,1,4,2,Long-Term,High
+563,33,1,Rarely,"Research & Development",1,4,Other,M,"Research Scientist",S,2686,1,1,10,10,4,2,3,Long-Term,Low
+564,25,0,Rarely,Sales,26,1,Medical,F,"Sales Executive",S,6180,1,0,6,6,4,2,3,Medium-Term,Medium
+565,45,0,Rarely,Sales,2,2,"Technical Degree",M,"Sales Representative",S,6632,0,0,9,8,3,3,1,Long-Term,Medium
+566,23,0,Rarely,"Research & Development",10,1,Medical,M,"Research Scientist",S,3505,1,0,2,2,3,3,4,Short-Term,Medium
+567,47,1,Frequently,Sales,27,2,"Life Sciences",F,"Sales Executive",S,6397,4,1,8,5,3,3,4,Medium-Term,Medium
+568,34,0,Rarely,Sales,2,3,Other,M,"Sales Executive",S,6274,1,0,6,6,4,3,3,Medium-Term,Medium
+569,55,1,Rarely,"Research & Development",2,3,Medical,M,Manager,M,19509,5,1,24,5,1,3,3,Medium-Term,High
+570,36,0,"No Travel",Sales,8,4,"Life Sciences",M,"Sales Executive",S,7587,1,0,10,10,1,3,2,Long-Term,Medium
+571,52,0,"No Travel","Research & Development",19,4,Medical,M,"Research Scientist",M,4258,0,0,5,4,4,3,3,Medium-Term,Medium
+572,26,0,Frequently,"Research & Development",1,2,"Life Sciences",F,"Laboratory Technician",D,4364,3,0,5,2,4,3,1,Short-Term,Medium
+573,29,0,Rarely,"Research & Development",27,3,Medical,F,"Healthcare Representative",M,4335,4,0,11,8,3,2,3,Long-Term,Medium
+574,26,1,Rarely,Sales,8,3,"Technical Degree",M,"Sales Executive",S,5326,6,0,6,4,1,2,2,Medium-Term,Medium
+575,34,0,Rarely,"Research & Development",1,4,"Life Sciences",F,"Research Scientist",S,3280,2,0,10,4,4,3,4,Medium-Term,Medium
+576,54,0,Rarely,"Research & Development",19,4,Medical,F,"Manufacturing Director",D,5485,9,1,9,5,1,3,3,Medium-Term,Medium
+577,27,0,Frequently,Sales,8,1,Marketing,M,"Sales Executive",M,4342,0,0,5,4,4,3,3,Medium-Term,Medium
+578,37,0,Rarely,"Research & Development",10,1,"Life Sciences",F,"Research Scientist",D,2782,0,1,6,5,1,2,3,Medium-Term,Low
+579,38,0,Frequently,"Research & Development",2,4,"Life Sciences",F,"Manufacturing Director",S,5980,6,1,17,15,1,3,4,Long-Term,Medium
+580,34,0,Rarely,"Research & Development",2,4,Medical,F,"Research Scientist",S,4381,1,0,6,6,1,3,2,Medium-Term,Medium
+581,35,0,Rarely,Sales,8,4,"Life Sciences",F,"Sales Representative",M,2572,1,0,3,3,4,2,3,Medium-Term,Low
+582,30,0,Rarely,"Research & Development",1,3,"Life Sciences",M,"Laboratory Technician",M,3833,3,0,7,2,3,3,1,Short-Term,Medium
+583,40,0,Frequently,"Research & Development",2,2,Medical,F,"Healthcare Representative",M,4244,1,0,8,8,2,3,4,Long-Term,Medium
+584,34,0,Rarely,Sales,8,2,"Life Sciences",F,"Sales Executive",M,6500,5,0,6,3,1,3,3,Medium-Term,Medium
+585,42,0,Frequently,"Research & Development",8,3,"Life Sciences",M,Manager,D,18430,1,0,24,24,4,2,3,Long-Term,High
+586,23,1,Rarely,"Research & Development",6,3,"Life Sciences",M,"Laboratory Technician",M,1601,1,1,1,0,1,3,4,Short-Term,Low
+587,24,0,"No Travel","Research & Development",9,3,"Life Sciences",M,"Laboratory Technician",D,2694,1,0,1,1,2,3,2,Short-Term,Low
+588,52,0,Rarely,"Research & Development",11,4,"Life Sciences",F,"Laboratory Technician",M,3149,8,0,9,5,3,3,3,Medium-Term,Medium
+589,50,0,Rarely,"Research & Development",2,3,Medical,M,"Research Director",M,17639,5,0,30,4,3,3,3,Medium-Term,High
+590,29,1,Rarely,"Research & Development",1,2,"Life Sciences",F,"Laboratory Technician",M,2319,1,1,1,1,1,3,2,Short-Term,Low
+591,33,0,Rarely,"Research & Development",7,3,Medical,M,"Research Director",M,11691,0,0,14,13,3,4,3,Long-Term,High
+592,33,1,Rarely,Sales,16,3,Marketing,F,"Sales Executive",S,5324,5,0,6,3,1,3,3,Medium-Term,Medium
+593,47,0,Rarely,"Research & Development",2,2,Other,F,Manager,M,16752,1,1,26,26,4,2,3,Long-Term,High
+594,36,0,Rarely,"Research & Development",1,3,Other,F,"Manufacturing Director",M,5228,0,0,10,9,2,3,3,Long-Term,Medium
+595,29,0,Rarely,"Research & Development",23,2,"Life Sciences",M,"Research Scientist",M,2700,1,0,10,10,3,3,4,Long-Term,Low
+596,58,1,Rarely,"Research & Development",2,4,"Life Sciences",M,"Research Director",S,19246,7,1,40,31,2,3,3,Long-Term,High
+597,35,0,Rarely,"Research & Development",1,4,"Life Sciences",F,"Research Scientist",S,2506,3,0,7,2,3,3,4,Short-Term,Low
+598,42,0,Rarely,"Research & Development",1,2,"Life Sciences",F,"Manufacturing Director",M,6062,9,1,8,4,4,3,2,Medium-Term,Medium
+599,28,1,Rarely,"Research & Development",2,4,Medical,M,"Research Scientist",S,4382,6,0,5,2,3,2,3,Short-Term,Medium
+600,36,0,Rarely,"Human Resources",13,3,"Human Resources",M,"Human Resources",M,2143,4,0,8,5,2,3,3,Medium-Term,Low
+601,32,0,Rarely,"Research & Development",4,3,"Life Sciences",F,"Manufacturing Director",M,6162,1,0,14,14,3,3,2,Long-Term,Medium
+602,40,0,Frequently,"Research & Development",16,4,Medical,M,"Laboratory Technician",S,5094,6,0,10,1,3,3,2,Short-Term,Medium
+603,30,0,Rarely,"Research & Development",2,3,Medical,F,"Manufacturing Director",S,6877,5,1,12,0,4,2,2,Short-Term,Medium
+604,45,0,Rarely,"Research & Development",2,3,"Life Sciences",F,"Research Scientist",S,2274,1,0,1,1,3,3,2,Short-Term,Low
+605,42,0,Rarely,"Research & Development",29,3,"Life Sciences",M,"Manufacturing Director",M,4434,1,0,10,9,2,2,3,Long-Term,Medium
+606,38,0,Frequently,"Research & Development",12,3,"Life Sciences",M,"Healthcare Representative",D,6288,2,0,13,4,1,2,2,Medium-Term,Medium
+607,34,0,Frequently,"Research & Development",16,4,"Life Sciences",F,"Research Scientist",S,2553,1,0,6,5,4,3,2,Medium-Term,Low
+608,49,1,Rarely,Sales,11,3,Marketing,F,"Sales Executive",M,7654,1,0,9,9,4,4,3,Long-Term,Medium
+609,55,1,Rarely,Sales,2,1,Medical,M,"Sales Executive",S,5160,4,0,12,9,4,2,3,Long-Term,Medium
+610,43,0,Rarely,"Research & Development",14,2,"Life Sciences",M,"Research Director",M,17159,6,0,22,4,1,3,3,Medium-Term,High
+611,27,0,Rarely,"Research & Development",5,1,"Technical Degree",M,"Research Director",D,12808,1,1,9,9,4,3,2,Long-Term,High
+612,35,0,Rarely,"Research & Development",7,3,Other,M,"Manufacturing Director",S,10221,3,0,17,8,3,4,3,Long-Term,High
+613,28,0,Rarely,Sales,2,4,Marketing,F,"Sales Executive",M,4779,1,1,8,8,2,3,3,Long-Term,Medium
+614,34,0,Rarely,"Human Resources",3,2,"Human Resources",M,"Human Resources",M,3737,0,0,4,3,4,1,3,Medium-Term,Medium
+615,26,1,Frequently,"Research & Development",5,2,Medical,F,"Research Scientist",M,2366,1,1,8,8,3,3,2,Long-Term,Low
+616,27,0,"No Travel","Research & Development",3,3,Medical,M,"Research Scientist",M,1706,1,0,0,0,4,2,3,Short-Term,Low
+617,51,0,Rarely,Sales,26,4,Marketing,F,Manager,M,16307,2,0,29,20,3,2,3,Long-Term,High
+618,44,0,Rarely,"Research & Development",4,3,Medical,M,"Healthcare Representative",S,5933,9,0,10,5,2,2,3,Medium-Term,Medium
+619,25,0,Rarely,"Research & Development",2,1,Medical,M,"Research Scientist",S,3424,7,0,6,4,1,2,4,Medium-Term,Medium
+620,33,0,Rarely,Sales,1,3,Medical,M,"Sales Executive",D,4037,1,0,9,9,1,3,4,Long-Term,Medium
+621,35,0,Rarely,"Research & Development",27,1,Medical,F,"Research Scientist",S,2559,1,0,6,6,1,2,2,Medium-Term,Low
+622,36,0,Rarely,Sales,1,2,"Life Sciences",M,"Sales Executive",M,6201,1,1,18,18,4,2,3,Long-Term,Medium
+623,32,0,Rarely,Sales,13,4,"Life Sciences",M,"Sales Executive",D,4403,2,0,8,5,4,2,3,Medium-Term,Medium
+624,30,0,Frequently,"Research & Development",5,4,"Life Sciences",M,"Research Scientist",D,3761,9,0,10,5,4,2,2,Medium-Term,Medium
+625,53,0,Rarely,Sales,7,2,Marketing,F,"Sales Executive",M,10934,7,1,35,5,4,3,2,Medium-Term,High
+626,45,0,Rarely,Sales,9,3,Marketing,M,"Sales Executive",D,10761,4,1,18,5,1,3,3,Medium-Term,High
+627,32,0,Rarely,"Research & Development",8,2,Medical,F,"Research Scientist",M,5175,5,0,9,5,3,2,4,Medium-Term,Medium
+628,52,0,Frequently,"Research & Development",25,4,Medical,F,"Manufacturing Director",M,13826,3,0,31,9,4,3,2,Long-Term,High
+629,37,0,Rarely,Sales,16,4,Marketing,M,"Sales Executive",D,6334,4,0,9,1,3,3,2,Short-Term,Medium
+630,28,0,Rarely,"Human Resources",8,2,Medical,M,"Human Resources",D,4936,1,0,6,5,4,3,2,Medium-Term,Medium
+631,22,0,Rarely,"Research & Development",1,2,"Life Sciences",M,"Manufacturing Director",M,4775,6,0,4,2,4,1,2,Short-Term,Medium
+632,44,0,Rarely,"Research & Development",8,4,"Life Sciences",M,"Laboratory Technician",M,2818,2,1,10,3,4,2,4,Medium-Term,Low
+633,42,0,Frequently,"Research & Development",2,1,Medical,M,"Research Scientist",S,2515,5,1,8,2,4,3,3,Short-Term,Low
+634,36,0,Rarely,"Human Resources",8,3,"Life Sciences",M,"Human Resources",M,2342,0,0,6,5,1,3,2,Medium-Term,Low
+635,25,0,Rarely,Sales,3,1,Other,M,"Sales Executive",M,4194,1,1,5,5,1,3,3,Medium-Term,Medium
+636,35,0,Rarely,"Research & Development",9,3,"Life Sciences",F,"Manufacturing Director",M,10685,1,1,17,17,3,3,2,Long-Term,High
+637,35,1,Frequently,"Research & Development",25,4,"Life Sciences",F,"Research Scientist",D,2022,1,1,10,10,2,2,3,Long-Term,Low
+638,32,0,"No Travel","Research & Development",1,3,"Life Sciences",M,"Laboratory Technician",D,2314,0,0,4,3,4,3,3,Medium-Term,Low
+639,25,0,Rarely,Sales,4,1,Marketing,M,"Sales Executive",M,4256,1,0,5,5,1,4,2,Medium-Term,Medium
+640,49,0,Rarely,"Research & Development",1,3,"Technical Degree",F,"Research Scientist",M,3580,2,0,7,4,1,3,3,Medium-Term,Medium
+641,24,0,"No Travel","Research & Development",4,1,"Life Sciences",M,"Laboratory Technician",M,3162,0,0,6,5,4,2,2,Medium-Term,Medium
+642,32,0,Frequently,Sales,5,2,"Life Sciences",M,"Sales Executive",M,6524,1,0,10,10,2,3,3,Long-Term,Medium
+643,38,0,Rarely,Sales,9,3,Marketing,M,"Sales Representative",M,2899,0,0,3,2,2,3,2,Short-Term,Low
+644,42,0,Rarely,"Research & Development",3,3,"Life Sciences",F,"Laboratory Technician",M,5231,2,1,17,5,4,2,4,Medium-Term,Medium
+645,31,0,Rarely,"Research & Development",11,4,"Life Sciences",M,"Research Scientist",M,2356,3,1,8,6,4,3,3,Medium-Term,Low
+646,29,1,Rarely,Sales,1,3,Medical,F,"Sales Representative",D,2800,6,1,5,3,3,3,2,Medium-Term,Low
+647,53,0,Rarely,Sales,8,3,Marketing,M,"Sales Executive",M,11836,5,0,28,2,4,3,3,Short-Term,High
+648,35,0,Rarely,"Research & Development",25,3,"Technical Degree",M,"Manufacturing Director",M,10903,3,0,16,13,2,3,2,Long-Term,High
+649,37,0,Frequently,Sales,21,2,Medical,F,"Sales Representative",M,2973,5,0,10,5,4,3,3,Medium-Term,Low
+650,53,0,Rarely,"Research & Development",23,4,"Life Sciences",F,"Research Director",S,14275,6,0,33,12,4,3,3,Long-Term,High
+651,43,0,Frequently,"Research & Development",1,3,"Life Sciences",F,"Healthcare Representative",M,5562,4,0,12,5,4,2,3,Medium-Term,Medium
+652,47,0,Rarely,Sales,2,2,Marketing,F,"Sales Executive",M,4537,0,1,8,7,4,3,3,Medium-Term,Medium
+653,37,0,"No Travel",Sales,19,2,Medical,M,"Sales Executive",S,7642,1,1,10,10,2,3,3,Long-Term,Medium
+654,50,0,"No Travel","Research & Development",2,4,"Life Sciences",M,Manager,D,17924,1,0,31,31,1,3,3,Long-Term,High
+655,39,0,Rarely,"Human Resources",2,3,"Life Sciences",F,"Human Resources",M,5204,8,0,13,5,4,3,2,Medium-Term,Medium
+656,33,0,Rarely,"Human Resources",3,2,"Human Resources",M,"Human Resources",D,2277,3,1,7,4,2,4,3,Medium-Term,Low
+657,32,1,Rarely,"Research & Development",25,4,"Life Sciences",M,"Laboratory Technician",S,2795,1,1,1,1,4,1,3,Short-Term,Low
+658,29,0,Rarely,"Research & Development",7,1,Medical,F,"Laboratory Technician",D,2532,6,0,8,4,4,3,2,Medium-Term,Low
+659,44,0,Rarely,"Research & Development",9,2,"Life Sciences",M,"Research Scientist",M,2559,1,1,8,8,1,3,3,Long-Term,Low
+660,28,0,Rarely,Sales,5,4,Medical,M,"Sales Executive",S,4908,1,0,4,4,4,3,3,Medium-Term,Medium
+661,58,1,Frequently,"Research & Development",2,1,"Life Sciences",M,"Laboratory Technician",D,2380,9,1,3,1,4,2,2,Short-Term,Low
+662,43,0,Rarely,"Research & Development",8,3,"Life Sciences",F,"Manufacturing Director",D,4765,4,0,4,1,2,4,3,Short-Term,Medium
+663,20,1,Rarely,Sales,2,3,Medical,F,"Sales Representative",S,2044,1,0,2,2,3,2,2,Short-Term,Low
+664,21,1,Rarely,"Research & Development",18,1,Other,F,"Research Scientist",S,2693,1,0,1,1,4,2,3,Short-Term,Low
+665,36,0,Rarely,"Research & Development",14,1,"Life Sciences",M,"Healthcare Representative",M,6586,0,1,17,16,4,2,3,Long-Term,Medium
+666,47,0,Rarely,Sales,2,4,"Life Sciences",F,"Sales Representative",S,3294,1,1,3,3,4,2,2,Medium-Term,Medium
+667,22,1,Rarely,"Research & Development",3,1,"Life Sciences",F,"Manufacturing Director",M,4171,0,1,4,3,3,4,3,Medium-Term,Medium
+668,41,1,Rarely,"Research & Development",2,4,"Life Sciences",F,"Laboratory Technician",D,2778,4,1,10,7,4,2,1,Medium-Term,Low
+669,28,0,Rarely,"Research & Development",9,3,Medical,F,"Research Scientist",D,2377,5,0,6,2,3,3,3,Short-Term,Low
+670,39,1,Rarely,"Research & Development",6,3,Medical,M,"Laboratory Technician",M,2404,7,1,8,2,1,1,3,Short-Term,Low
+671,27,0,Rarely,"Research & Development",4,3,"Life Sciences",F,"Research Scientist",S,2318,1,0,1,1,3,3,3,Short-Term,Low
+672,34,0,Rarely,"Research & Development",10,3,"Life Sciences",M,"Laboratory Technician",D,2008,1,0,1,1,2,3,3,Short-Term,Low
+673,42,0,Rarely,Sales,14,2,Medical,F,"Sales Executive",S,6244,7,0,10,5,3,3,2,Medium-Term,Medium
+674,33,0,Rarely,"Research & Development",1,4,Other,M,"Research Scientist",S,2799,3,1,6,3,1,3,2,Medium-Term,Low
+675,58,0,Rarely,"Research & Development",5,3,"Technical Degree",F,"Healthcare Representative",D,10552,2,1,24,6,2,3,2,Medium-Term,High
+676,31,0,Rarely,Sales,7,4,"Life Sciences",M,"Sales Representative",M,2329,3,0,13,7,3,4,2,Medium-Term,Low
+677,35,0,Rarely,"Research & Development",21,1,"Life Sciences",F,"Healthcare Representative",M,4014,1,1,10,10,4,1,3,Long-Term,Medium
+678,49,0,Rarely,"Research & Development",8,2,Other,F,"Laboratory Technician",M,7403,4,0,29,26,2,2,3,Long-Term,Medium
+679,48,0,Rarely,"Research & Development",20,4,Medical,M,"Research Scientist",M,2259,4,0,13,0,3,2,3,Short-Term,Low
+680,31,0,"No Travel",Sales,20,2,Marketing,F,"Sales Executive",M,6932,1,0,9,9,3,2,3,Long-Term,Medium
+681,36,0,Rarely,"Research & Development",7,4,Other,M,"Research Scientist",S,4678,2,0,8,6,4,3,3,Medium-Term,Medium
+682,38,0,Rarely,"Research & Development",1,3,"Technical Degree",F,"Research Director",M,13582,1,0,15,15,1,3,3,Long-Term,High
+683,32,0,"No Travel","Research & Development",1,3,"Life Sciences",F,"Laboratory Technician",M,2332,6,0,5,3,2,3,2,Medium-Term,Low
+684,25,1,Rarely,Sales,19,2,Marketing,M,"Sales Representative",M,2413,1,1,1,1,2,3,2,Short-Term,Low
+685,40,0,Rarely,Sales,10,4,Marketing,M,"Sales Executive",D,9705,2,0,11,1,2,2,2,Short-Term,High
+686,26,0,Frequently,Sales,1,3,Medical,M,"Sales Executive",S,4294,1,0,7,7,1,3,2,Medium-Term,Medium
+687,41,0,Rarely,"Research & Development",6,3,Medical,M,"Laboratory Technician",S,4721,2,1,20,18,1,3,3,Long-Term,Medium
+688,36,0,Rarely,"Research & Development",2,4,Medical,M,"Laboratory Technician",S,2519,4,0,16,11,3,3,3,Long-Term,Low
+689,19,1,Rarely,Sales,21,3,Other,M,"Sales Representative",S,2121,1,1,1,1,2,4,2,Short-Term,Low
+690,20,1,Rarely,"Research & Development",4,3,"Technical Degree",M,"Laboratory Technician",S,2973,1,0,1,1,1,3,3,Short-Term,Low
+691,31,0,Rarely,"Research & Development",12,3,Medical,F,"Healthcare Representative",M,5855,0,1,10,9,4,1,3,Long-Term,Medium
+692,40,0,Frequently,"Research & Development",9,4,Medical,M,"Research Scientist",D,3617,8,1,3,1,2,3,3,Short-Term,Medium
+693,32,0,Rarely,"Research & Development",3,4,Medical,F,"Manufacturing Director",M,6725,1,0,8,8,1,4,3,Long-Term,Medium
+694,36,1,Rarely,Sales,3,1,"Life Sciences",M,"Sales Executive",M,10325,1,1,16,16,4,3,2,Long-Term,High
+695,33,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Healthcare Representative",S,6949,0,0,6,5,4,3,2,Medium-Term,Medium
+696,37,1,Rarely,Sales,1,4,"Life Sciences",M,"Sales Executive",M,10609,5,0,17,14,3,1,2,Long-Term,High
+697,45,0,"No Travel","Research & Development",4,2,"Life Sciences",M,"Laboratory Technician",M,4447,1,0,9,9,2,2,3,Long-Term,Medium
+698,29,0,Frequently,Sales,20,3,"Technical Degree",F,"Sales Representative",M,2157,1,0,3,3,4,3,3,Medium-Term,Low
+699,35,0,Rarely,Sales,18,3,Medical,F,"Sales Executive",M,4601,1,0,5,5,3,3,3,Medium-Term,Medium
+700,52,0,Rarely,"Research & Development",1,2,"Life Sciences",M,Manager,M,17099,2,0,26,9,4,2,3,Long-Term,High
+701,58,1,Rarely,"Research & Development",2,3,"Technical Degree",M,"Research Scientist",S,2479,4,0,7,1,3,3,3,Short-Term,Low
+702,53,0,Rarely,Sales,2,2,Medical,M,Manager,D,14852,6,0,22,17,3,4,3,Long-Term,High
+703,30,0,Rarely,Sales,8,2,Other,M,"Sales Executive",D,7264,5,0,10,8,3,4,3,Long-Term,Medium
+704,38,0,"No Travel",Sales,10,3,"Technical Degree",F,"Sales Executive",S,5666,1,1,6,5,4,3,3,Medium-Term,Medium
+705,35,0,Rarely,Sales,3,4,"Life Sciences",M,"Sales Executive",D,7823,6,0,12,10,4,3,3,Long-Term,Medium
+706,39,0,Rarely,Sales,2,5,"Life Sciences",M,"Sales Executive",S,7880,0,0,9,8,3,3,4,Long-Term,Medium
+707,40,1,"No Travel",Sales,24,3,"Life Sciences",F,"Sales Executive",S,13194,4,1,22,1,2,2,4,Short-Term,High
+708,47,0,Frequently,"Research & Development",16,4,Medical,M,"Manufacturing Director",D,5067,1,1,20,19,3,4,4,Long-Term,Medium
+709,36,0,"No Travel",Sales,8,4,"Technical Degree",M,"Sales Executive",D,5079,4,0,12,7,4,3,3,Medium-Term,Medium
+710,31,1,"No Travel","Research & Development",9,2,Medical,M,"Research Scientist",S,2321,0,1,4,3,1,3,2,Medium-Term,Low
+711,33,0,"No Travel",Sales,17,3,"Life Sciences",M,Manager,S,17444,1,0,10,10,3,3,3,Long-Term,High
+712,29,1,Rarely,"Research & Development",10,3,"Life Sciences",F,"Research Scientist",S,2404,6,1,3,0,1,3,2,Short-Term,Low
+713,33,0,Rarely,"Research & Development",13,1,"Life Sciences",F,"Research Scientist",S,3452,3,0,5,3,4,3,3,Medium-Term,Medium
+714,45,0,Rarely,"Research & Development",1,4,Medical,F,"Laboratory Technician",D,2270,3,0,8,5,4,3,3,Medium-Term,Low
+715,50,0,Rarely,"Research & Development",1,2,Medical,M,"Research Director",D,17399,9,0,32,5,4,2,3,Medium-Term,High
+716,33,0,Frequently,"Research & Development",1,4,Other,F,"Healthcare Representative",M,5488,1,1,6,6,2,3,4,Medium-Term,Medium
+717,41,0,Frequently,"Research & Development",9,3,Medical,M,"Research Director",D,19419,2,0,21,18,3,4,3,Long-Term,High
+718,27,0,Rarely,"Research & Development",16,4,"Technical Degree",F,"Laboratory Technician",M,2811,9,0,4,2,2,3,3,Short-Term,Low
+719,45,0,"No Travel","Research & Development",23,2,"Life Sciences",M,"Laboratory Technician",M,3633,1,1,9,9,1,3,3,Long-Term,Medium
+720,47,0,Rarely,Sales,4,2,"Life Sciences",F,"Sales Executive",S,4163,1,1,9,9,4,3,3,Long-Term,Medium
+721,30,1,Rarely,"Research & Development",22,3,"Life Sciences",F,"Research Scientist",M,2132,4,1,7,5,3,3,3,Medium-Term,Low
+722,50,0,Rarely,"Research & Development",24,3,"Life Sciences",M,"Manufacturing Director",M,13973,3,1,22,12,3,3,3,Long-Term,High
+723,38,0,Frequently,"Research & Development",10,1,Medical,M,"Research Scientist",M,2684,0,0,3,2,3,2,3,Short-Term,Low
+724,46,0,Rarely,"Research & Development",7,2,Medical,M,"Manufacturing Director",D,10845,6,0,13,8,3,3,3,Long-Term,High
+725,24,0,Rarely,"Research & Development",17,1,Medical,F,"Manufacturing Director",D,4377,1,0,5,4,3,3,2,Medium-Term,Medium
+726,35,1,Rarely,"Research & Development",14,4,Other,M,"Laboratory Technician",D,3743,1,1,5,4,2,1,2,Medium-Term,Medium
+727,31,0,Frequently,"Research & Development",1,1,"Life Sciences",F,"Manufacturing Director",M,4148,1,0,4,4,1,3,3,Medium-Term,Medium
+728,18,0,"No Travel","Research & Development",5,2,"Life Sciences",M,"Research Scientist",S,1051,1,0,0,0,4,3,3,Short-Term,Low
+729,54,0,Rarely,"Research & Development",17,3,"Technical Degree",F,"Manufacturing Director",M,10739,8,0,22,10,3,3,3,Long-Term,High
+730,35,0,Rarely,"Research & Development",25,4,Medical,F,"Healthcare Representative",D,10388,1,1,16,16,3,2,3,Long-Term,High
+731,30,0,Rarely,"Research & Development",8,2,"Life Sciences",F,"Research Director",M,11416,0,1,9,8,1,2,4,Long-Term,High
+732,20,1,Rarely,"Research & Development",11,3,Medical,F,"Research Scientist",S,2600,1,1,1,1,1,3,2,Short-Term,Low
+733,30,1,Frequently,"Research & Development",5,3,Medical,F,"Laboratory Technician",S,2422,0,0,4,3,2,3,3,Medium-Term,Low
+734,26,0,Rarely,"Research & Development",2,2,Medical,M,"Manufacturing Director",M,5472,1,0,8,8,4,3,4,Long-Term,Medium
+735,22,0,Rarely,"Research & Development",8,1,"Life Sciences",M,"Laboratory Technician",M,2451,1,0,4,4,1,2,1,Medium-Term,Low
+736,48,0,Rarely,"Research & Development",6,3,"Life Sciences",M,"Healthcare Representative",S,4240,2,0,19,2,3,3,2,Short-Term,Medium
+737,48,0,Rarely,"Research & Development",4,4,"Life Sciences",M,"Healthcare Representative",S,10999,7,0,27,15,3,3,2,Long-Term,High
+738,41,0,Rarely,"Research & Development",7,2,Medical,F,"Manufacturing Director",S,5003,6,0,8,2,3,3,3,Short-Term,Medium
+739,39,0,Rarely,"Research & Development",1,1,"Life Sciences",F,"Manufacturing Director",M,12742,1,0,21,21,4,3,2,Long-Term,High
+740,27,0,Rarely,"Research & Development",2,4,"Life Sciences",F,"Manufacturing Director",M,4227,0,0,4,3,4,3,3,Medium-Term,Medium
+741,35,0,Rarely,"Research & Development",10,3,Other,M,"Laboratory Technician",D,3917,1,0,3,3,4,2,3,Medium-Term,Medium
+742,42,0,Rarely,Sales,5,2,Marketing,M,Manager,M,18303,6,0,21,1,3,4,3,Short-Term,High
+743,50,0,Rarely,"Research & Development",9,3,"Life Sciences",M,"Laboratory Technician",M,2380,4,0,8,1,4,3,3,Short-Term,Low
+744,59,0,Rarely,"Research & Development",2,3,"Life Sciences",F,"Manufacturing Director",S,13726,3,1,30,5,4,3,2,Medium-Term,High
+745,37,1,Rarely,"Research & Development",11,2,Medical,F,"Healthcare Representative",M,4777,5,0,15,1,2,1,1,Short-Term,Medium
+746,55,0,Frequently,"Research & Development",18,4,Medical,M,"Healthcare Representative",M,6385,3,1,17,8,2,3,3,Long-Term,Medium
+747,41,0,"No Travel","Research & Development",7,1,"Life Sciences",F,"Research Director",D,19509,1,0,21,21,3,3,1,Long-Term,High
+748,38,0,Rarely,Sales,3,4,"Life Sciences",M,"Sales Executive",S,6861,8,1,19,1,4,3,3,Short-Term,Medium
+749,26,1,"No Travel",Sales,29,2,Medical,M,"Sales Executive",S,4969,8,0,7,2,1,3,1,Short-Term,Medium
+750,52,1,Rarely,Sales,2,1,Marketing,F,Manager,M,19509,1,0,33,32,4,3,1,Long-Term,High
+751,44,0,Rarely,Sales,28,3,Medical,F,"Sales Executive",M,13320,3,1,23,12,4,3,4,Long-Term,High
+752,50,0,"No Travel",Sales,1,3,"Life Sciences",F,"Sales Executive",M,6347,0,0,19,18,3,3,3,Long-Term,Medium
+753,36,1,Rarely,"Research & Development",16,4,"Life Sciences",F,"Laboratory Technician",S,2743,1,0,18,17,1,3,4,Long-Term,Low
+754,39,0,Frequently,"Research & Development",22,3,Medical,F,"Manufacturing Director",S,10880,1,1,21,21,1,3,3,Long-Term,High
+755,33,0,"No Travel",Sales,8,1,"Life Sciences",F,"Sales Representative",S,2342,0,0,3,2,4,2,2,Short-Term,Low
+756,45,0,Rarely,Sales,11,2,"Life Sciences",F,Manager,M,17650,3,0,26,9,4,4,3,Long-Term,High
+757,32,0,"No Travel","Research & Development",29,4,Medical,F,"Laboratory Technician",S,4025,9,0,10,8,3,3,3,Long-Term,Medium
+758,34,0,Rarely,Sales,1,4,Marketing,M,"Sales Executive",D,9725,0,0,16,15,4,2,4,Long-Term,High
+759,59,0,Rarely,Sales,1,2,"Technical Degree",M,Manager,M,11904,3,1,14,6,4,1,3,Medium-Term,High
+760,45,0,Rarely,"Human Resources",24,4,Medical,M,"Human Resources",S,2177,1,0,6,6,2,3,3,Medium-Term,Low
+761,53,0,Frequently,Sales,2,3,Marketing,F,"Sales Executive",M,7525,2,0,30,15,2,3,2,Long-Term,Medium
+762,36,1,Rarely,"Research & Development",15,3,Other,M,"Laboratory Technician",D,4834,7,0,9,1,3,2,3,Short-Term,Medium
+763,26,1,Frequently,"Research & Development",2,3,"Life Sciences",M,"Research Scientist",M,2042,6,1,6,3,1,3,3,Medium-Term,Low
+764,34,0,Rarely,Sales,10,4,"Life Sciences",F,"Sales Representative",M,2220,1,1,1,1,3,3,3,Short-Term,Low
+765,28,0,Rarely,Sales,10,1,Medical,M,"Sales Representative",M,1052,1,0,1,1,2,3,3,Short-Term,Low
+766,38,0,Frequently,"Research & Development",3,4,Other,M,"Research Scientist",M,2821,3,0,8,2,3,3,3,Short-Term,Low
+767,50,0,Rarely,"Research & Development",2,4,Medical,M,"Research Director",M,19237,2,1,29,8,3,2,3,Long-Term,High
+768,37,0,Rarely,"Research & Development",3,3,Other,F,"Healthcare Representative",S,4107,3,0,8,4,2,2,3,Medium-Term,Medium
+769,40,0,Rarely,Sales,26,3,Marketing,M,"Sales Executive",M,8396,1,0,8,7,1,2,3,Medium-Term,High
+770,26,0,Frequently,"Research & Development",1,1,Medical,F,"Research Scientist",D,2007,1,0,5,5,3,3,2,Medium-Term,Low
+771,46,0,Rarely,"Research & Development",1,4,Medical,M,"Research Director",D,19509,9,0,23,2,4,3,3,Short-Term,High
+772,54,0,Rarely,Sales,2,4,"Life Sciences",F,"Sales Executive",M,10686,6,0,13,9,3,3,2,Long-Term,High
+773,56,0,Frequently,"Research & Development",9,3,Medical,F,"Research Scientist",M,2942,2,0,18,5,3,3,3,Medium-Term,Low
+774,36,0,Rarely,"Research & Development",12,5,Medical,F,"Manufacturing Director",S,8858,0,0,15,14,4,2,2,Long-Term,High
+775,55,0,"No Travel","Research & Development",2,1,Medical,M,Manager,S,16756,7,0,31,9,1,4,2,Long-Term,High
+776,43,0,Rarely,Sales,25,3,Medical,M,"Sales Executive",D,10798,5,0,18,1,4,3,2,Short-Term,High
+777,20,1,Frequently,Sales,9,3,Marketing,F,"Sales Representative",S,2323,1,1,2,2,4,3,3,Short-Term,Low
+778,21,1,Rarely,"Research & Development",10,3,"Life Sciences",F,"Laboratory Technician",S,1416,1,0,1,1,1,2,2,Short-Term,Low
+779,46,0,Rarely,"Research & Development",8,4,"Life Sciences",F,"Research Scientist",D,4615,8,1,19,16,1,3,2,Long-Term,Medium
+780,51,1,Rarely,"Research & Development",4,4,"Life Sciences",M,"Research Scientist",M,2461,9,1,18,10,3,4,3,Long-Term,Low
+781,28,1,"No Travel","Research & Development",24,2,"Technical Degree",M,"Healthcare Representative",S,8722,1,0,10,10,1,2,2,Long-Term,High
+782,26,0,Rarely,"Research & Development",1,2,Medical,M,"Laboratory Technician",M,3955,1,0,6,5,1,3,2,Medium-Term,Medium
+783,30,0,Rarely,"Research & Development",20,3,Other,M,"Manufacturing Director",M,9957,0,0,7,6,1,2,3,Medium-Term,High
+784,41,0,Rarely,"Research & Development",7,2,"Technical Degree",F,"Research Scientist",M,3376,1,0,10,10,3,3,4,Long-Term,Medium
+785,38,0,Rarely,"Research & Development",17,1,"Life Sciences",F,"Healthcare Representative",M,8823,0,0,20,19,3,2,2,Long-Term,High
+786,40,0,Rarely,"Research & Development",20,4,"Technical Degree",M,"Healthcare Representative",M,10322,4,0,14,11,4,3,3,Long-Term,High
+787,27,0,"No Travel","Research & Development",8,5,"Life Sciences",M,"Laboratory Technician",M,4621,1,0,3,3,3,3,1,Medium-Term,Medium
+788,55,0,Frequently,"Research & Development",2,1,"Life Sciences",M,"Manufacturing Director",M,10976,3,0,23,3,2,3,3,Medium-Term,High
+789,28,0,Rarely,"Research & Development",10,3,Other,F,"Research Scientist",S,3660,3,0,10,8,3,4,3,Long-Term,Medium
+790,44,1,Rarely,"Human Resources",1,2,Medical,M,"Human Resources",M,10482,9,0,24,20,1,3,2,Long-Term,High
+791,33,0,Rarely,"Research & Development",5,3,"Life Sciences",M,"Healthcare Representative",D,7119,4,0,9,3,4,3,2,Medium-Term,Medium
+792,35,1,Rarely,Sales,4,3,"Technical Degree",M,"Sales Executive",S,9582,0,1,9,8,1,3,3,Long-Term,High
+793,33,1,Frequently,"Research & Development",29,4,Medical,F,"Research Scientist",S,4508,1,0,14,13,3,3,2,Long-Term,Medium
+794,28,0,Rarely,"Research & Development",15,2,"Life Sciences",M,"Laboratory Technician",D,2207,1,0,4,4,3,2,3,Medium-Term,Low
+795,34,0,Frequently,"Research & Development",3,1,"Life Sciences",M,"Healthcare Representative",S,7756,0,0,7,6,4,2,3,Medium-Term,Medium
+796,37,0,Rarely,Sales,10,4,"Life Sciences",F,"Sales Executive",D,6694,2,1,8,1,4,3,2,Short-Term,Medium
+797,25,1,Rarely,"Research & Development",4,1,"Technical Degree",M,"Laboratory Technician",M,3691,1,1,7,7,4,4,3,Medium-Term,Medium
+798,26,1,Rarely,"Research & Development",21,3,Medical,M,"Laboratory Technician",D,2377,1,0,1,1,3,2,3,Short-Term,Low
+799,33,1,Rarely,"Research & Development",25,3,Medical,M,"Research Scientist",S,2313,4,1,5,2,2,3,2,Short-Term,Low
+800,42,0,Rarely,"Research & Development",2,2,Medical,M,Manager,M,17665,0,0,23,22,1,3,3,Long-Term,High
+801,28,1,Frequently,"Research & Development",1,3,Medical,M,"Laboratory Technician",D,2596,1,0,1,1,2,3,2,Short-Term,Low
+802,50,1,Frequently,Sales,1,4,Other,M,"Sales Executive",S,4728,3,1,5,0,3,3,3,Short-Term,Medium
+803,33,0,Frequently,Sales,7,3,"Life Sciences",F,"Sales Executive",M,4302,0,0,4,3,2,3,3,Medium-Term,Medium
+804,34,0,"No Travel","Research & Development",3,4,"Life Sciences",M,"Research Scientist",M,2979,3,0,6,0,4,3,2,Short-Term,Low
+805,48,0,"No Travel","Research & Development",1,4,Medical,M,Manager,S,16885,2,0,27,5,4,2,4,Medium-Term,High
+806,45,0,"No Travel",Sales,9,4,"Life Sciences",F,"Sales Executive",M,5593,1,0,15,15,3,3,2,Long-Term,Medium
+807,52,0,Rarely,"Research & Development",7,4,"Life Sciences",M,"Healthcare Representative",S,10445,7,0,18,8,2,3,3,Long-Term,High
+808,38,0,Rarely,Sales,10,4,Marketing,M,"Sales Executive",D,8740,0,1,9,8,3,3,2,Long-Term,High
+809,29,0,Rarely,"Research & Development",28,4,"Life Sciences",F,"Research Scientist",D,2514,4,0,11,7,4,3,3,Medium-Term,Low
+810,28,0,Rarely,"Research & Development",3,3,Medical,F,"Manufacturing Director",D,7655,0,0,10,9,2,2,3,Long-Term,Medium
+811,46,0,Rarely,Sales,3,1,Marketing,M,Manager,M,17465,3,0,23,12,3,3,3,Long-Term,High
+812,38,0,Rarely,Sales,2,2,Marketing,M,"Sales Executive",S,7351,7,0,10,1,2,3,3,Short-Term,Medium
+813,43,0,Frequently,"Research & Development",27,3,"Life Sciences",F,"Manufacturing Director",M,10820,8,0,18,8,1,3,3,Long-Term,High
+814,39,1,Frequently,"Research & Development",2,3,"Life Sciences",M,"Healthcare Representative",D,12169,7,0,21,18,4,3,3,Long-Term,High
+815,40,0,Rarely,"Research & Development",14,3,Medical,M,"Research Director",S,19509,1,0,21,20,3,4,2,Long-Term,High
+816,21,0,Rarely,"Research & Development",1,1,"Technical Degree",F,"Research Scientist",S,2070,1,1,2,2,2,4,2,Short-Term,Low
+817,39,0,"No Travel","Research & Development",9,3,"Life Sciences",M,"Laboratory Technician",S,6782,9,0,9,5,2,2,3,Medium-Term,Medium
+818,36,0,"No Travel","Research & Development",18,4,"Life Sciences",M,"Manufacturing Director",S,7779,2,0,18,11,4,3,3,Long-Term,Medium
+819,31,0,Frequently,Sales,20,3,"Life Sciences",M,"Sales Representative",M,2791,0,0,3,2,4,3,4,Short-Term,Low
+820,28,0,Rarely,"Research & Development",2,1,"Life Sciences",M,"Research Scientist",M,3201,0,0,6,5,2,1,2,Medium-Term,Medium
+821,35,0,Frequently,Sales,11,2,Marketing,M,"Sales Executive",D,4968,1,0,5,5,4,3,3,Medium-Term,Medium
+822,49,0,Rarely,Sales,8,4,"Technical Degree",M,"Sales Executive",M,13120,6,0,22,9,2,3,2,Long-Term,High
+823,34,0,Frequently,"Research & Development",2,2,"Life Sciences",M,"Manufacturing Director",S,4033,2,0,5,3,3,2,3,Medium-Term,Medium
+824,29,0,Frequently,"Research & Development",10,3,"Life Sciences",F,"Research Scientist",D,3291,0,0,8,7,2,2,3,Medium-Term,Medium
+825,42,0,Rarely,"Research & Development",29,3,Medical,M,"Laboratory Technician",S,4272,4,0,16,1,4,3,1,Short-Term,Medium
+826,29,0,Rarely,"Research & Development",8,1,Medical,M,"Manufacturing Director",M,5056,1,1,10,10,4,2,2,Long-Term,Medium
+827,38,0,Rarely,"Human Resources",1,3,"Human Resources",M,"Human Resources",M,2844,1,0,7,7,3,4,4,Medium-Term,Low
+828,28,0,Frequently,"Research & Development",6,3,"Life Sciences",M,"Research Scientist",D,2703,1,1,3,3,3,3,2,Medium-Term,Low
+829,18,1,"No Travel","Research & Development",8,1,Medical,M,"Laboratory Technician",S,1904,1,0,0,0,3,3,3,Short-Term,Low
+830,33,1,Rarely,Sales,9,4,Marketing,F,"Sales Executive",S,8224,0,1,6,5,1,3,3,Medium-Term,High
+831,41,0,Rarely,"Research & Development",12,4,"Life Sciences",M,"Laboratory Technician",M,4766,3,1,6,1,4,3,3,Short-Term,Medium
+832,31,1,Frequently,"Research & Development",15,3,Medical,M,"Laboratory Technician",M,2610,1,0,2,2,3,2,3,Short-Term,Low
+833,37,0,Rarely,"Research & Development",25,2,Medical,F,"Healthcare Representative",D,5731,7,0,9,6,4,3,2,Medium-Term,Medium
+834,27,0,Rarely,"Research & Development",6,3,"Life Sciences",M,"Research Scientist",M,2539,1,0,4,4,3,3,2,Medium-Term,Low
+835,34,0,Rarely,Sales,9,1,"Life Sciences",F,"Sales Executive",M,5714,1,0,6,6,3,2,3,Medium-Term,Medium
+836,35,0,Rarely,"Human Resources",8,4,"Technical Degree",M,"Human Resources",S,4323,1,0,6,5,3,1,3,Medium-Term,Medium
+837,29,1,Rarely,Sales,23,1,"Life Sciences",F,"Sales Executive",M,7336,1,0,11,11,1,1,2,Long-Term,Medium
+838,40,0,Frequently,"Research & Development",9,4,Medical,F,"Research Director",S,13499,9,0,20,18,3,2,3,Long-Term,High
+839,42,1,Frequently,Sales,12,3,"Life Sciences",M,"Sales Executive",S,13758,0,1,22,21,1,2,3,Long-Term,High
+840,42,0,Rarely,Sales,4,4,Marketing,M,"Sales Executive",S,5155,7,0,9,6,1,4,3,Medium-Term,Medium
+841,35,0,Rarely,"Research & Development",1,4,Medical,M,"Laboratory Technician",M,2258,6,0,10,8,3,3,2,Long-Term,Low
+842,24,0,Rarely,"Research & Development",24,3,Medical,M,"Laboratory Technician",S,3597,8,0,6,4,2,3,3,Medium-Term,Medium
+843,28,1,Rarely,"Research & Development",12,1,"Life Sciences",F,"Laboratory Technician",M,2515,1,1,1,1,4,2,3,Short-Term,Low
+844,26,0,Rarely,"Research & Development",3,4,Medical,M,"Laboratory Technician",M,4420,1,0,8,8,4,3,4,Long-Term,Medium
+845,30,0,Rarely,Sales,10,3,Marketing,M,"Sales Executive",M,6578,1,0,10,10,3,3,2,Long-Term,Medium
+846,40,0,Frequently,"Research & Development",26,2,Medical,F,"Research Scientist",M,4422,3,1,16,1,4,1,2,Short-Term,Medium
+847,35,0,Rarely,"Research & Development",2,3,"Life Sciences",M,"Manufacturing Director",D,10274,2,0,15,7,2,4,2,Medium-Term,High
+848,34,0,Frequently,"Research & Development",1,3,Medical,M,"Healthcare Representative",S,5343,0,0,14,13,1,3,2,Long-Term,Medium
+849,35,0,Frequently,"Research & Development",4,4,Other,M,"Laboratory Technician",M,2376,1,0,2,2,4,4,2,Short-Term,Low
+850,43,1,Rarely,Sales,9,3,Marketing,F,"Sales Executive",S,5346,8,0,7,4,3,2,1,Medium-Term,Medium
+851,32,0,"No Travel",Sales,2,1,"Life Sciences",F,"Sales Representative",D,2827,1,0,1,1,1,3,3,Short-Term,Low
+852,56,0,Rarely,"Research & Development",4,4,"Technical Degree",F,Manager,D,19509,4,0,28,5,1,3,3,Medium-Term,High
+853,29,0,Rarely,"Research & Development",6,1,Medical,F,"Laboratory Technician",M,3131,1,0,10,10,4,3,3,Long-Term,Medium
+854,19,0,Rarely,"Research & Development",9,2,"Life Sciences",M,"Research Scientist",S,2552,1,0,1,1,1,3,3,Short-Term,Low
+855,45,0,Rarely,"Research & Development",7,3,Medical,F,"Research Scientist",M,4477,4,1,7,3,3,2,3,Medium-Term,Medium
+856,37,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Manufacturing Director",M,6474,1,0,14,14,4,2,2,Long-Term,Medium
+857,20,0,Rarely,"Research & Development",3,3,"Life Sciences",M,"Laboratory Technician",S,3033,1,0,2,2,3,2,2,Short-Term,Medium
+858,44,1,Rarely,"Research & Development",10,4,"Life Sciences",M,"Research Scientist",S,2936,1,1,6,6,3,3,3,Medium-Term,Low
+859,53,0,Rarely,"Research & Development",7,2,Medical,F,Manager,D,18606,3,0,26,7,3,3,3,Medium-Term,High
+860,29,0,Rarely,"Research & Development",15,1,"Life Sciences",F,"Research Scientist",M,2168,0,1,6,5,4,2,1,Medium-Term,Low
+861,22,1,Frequently,"Research & Development",3,4,"Life Sciences",M,"Research Scientist",M,2853,0,1,1,0,4,3,2,Short-Term,Low
+862,46,0,Rarely,Sales,2,3,Marketing,F,Manager,M,17048,8,0,28,26,1,3,3,Long-Term,High
+863,44,0,"No Travel","Research & Development",17,3,"Life Sciences",M,"Research Scientist",S,2290,2,0,6,0,3,3,1,Short-Term,Low
+864,33,0,Rarely,"Human Resources",2,3,"Human Resources",M,"Human Resources",M,3600,1,0,5,5,3,3,3,Medium-Term,Medium
+865,41,1,"No Travel","Research & Development",5,2,"Life Sciences",M,"Research Scientist",D,2107,6,0,5,1,1,1,2,Short-Term,Low
+866,30,0,Rarely,Sales,29,4,"Life Sciences",M,"Sales Executive",D,4115,8,0,8,4,1,3,3,Medium-Term,Medium
+867,40,0,Frequently,Sales,2,4,Medical,M,"Sales Executive",M,4327,5,0,5,0,2,3,3,Short-Term,Medium
+868,50,0,Frequently,"Research & Development",2,3,Medical,F,Manager,M,17856,2,0,32,2,1,3,3,Short-Term,High
+869,28,0,Rarely,"Research & Development",19,4,Medical,M,"Laboratory Technician",M,3196,1,0,6,6,1,3,2,Medium-Term,Medium
+870,46,0,Rarely,"Research & Development",15,2,"Life Sciences",M,"Research Director",M,19081,5,0,25,4,2,3,3,Medium-Term,High
+871,35,0,Rarely,Sales,17,4,"Life Sciences",M,"Sales Executive",M,8966,3,1,15,7,1,3,3,Medium-Term,High
+872,24,1,Rarely,"Research & Development",17,2,"Life Sciences",F,"Laboratory Technician",M,2210,1,0,1,1,2,1,3,Short-Term,Low
+873,33,0,Frequently,Sales,25,3,Medical,F,"Sales Executive",M,4539,1,0,10,10,3,2,3,Long-Term,Medium
+874,36,0,Rarely,"Research & Development",6,4,"Life Sciences",M,"Laboratory Technician",D,2741,1,0,7,7,3,3,1,Medium-Term,Low
+875,30,0,Rarely,"Research & Development",7,4,"Life Sciences",M,"Laboratory Technician",D,3491,1,0,10,10,3,2,3,Long-Term,Medium
+876,44,0,Rarely,"Research & Development",29,4,Other,M,"Research Scientist",S,4541,1,0,20,20,4,3,3,Long-Term,Medium
+877,20,0,Rarely,Sales,21,3,Marketing,M,"Sales Representative",S,2678,1,0,2,2,4,3,4,Short-Term,Low
+878,46,0,Rarely,"Research & Development",2,4,"Technical Degree",M,"Manufacturing Director",D,7379,2,0,12,6,4,2,3,Medium-Term,Medium
+879,42,0,"No Travel","Human Resources",2,5,Medical,M,"Human Resources",M,6272,7,0,10,4,1,4,4,Medium-Term,Medium
+880,60,0,Rarely,Sales,7,4,Marketing,M,"Sales Executive",D,5220,0,1,12,11,4,3,4,Long-Term,Medium
+881,32,0,Frequently,"Research & Development",13,3,Other,F,"Laboratory Technician",M,2743,1,0,2,2,2,3,2,Short-Term,Low
+882,32,0,Frequently,"Research & Development",2,2,"Life Sciences",F,"Research Scientist",S,4998,4,1,10,8,3,3,3,Long-Term,Medium
+883,36,0,Rarely,"Research & Development",1,3,"Technical Degree",F,"Manufacturing Director",D,10252,2,1,17,7,1,3,1,Medium-Term,High
+884,33,0,Rarely,"Research & Development",9,3,Medical,M,"Research Scientist",M,2781,0,0,15,14,4,3,3,Long-Term,Low
+885,40,0,Rarely,Sales,10,3,"Technical Degree",F,"Sales Executive",D,6852,7,0,7,5,2,4,2,Medium-Term,Medium
+886,25,0,Rarely,Sales,10,4,"Life Sciences",M,"Sales Executive",S,4950,0,0,5,4,4,3,3,Medium-Term,Medium
+887,30,0,Rarely,"Research & Development",1,3,Medical,M,"Research Scientist",M,3579,0,1,12,11,2,3,3,Long-Term,Medium
+888,42,0,Frequently,"Research & Development",26,5,Medical,F,"Research Director",M,13191,3,1,20,1,1,3,3,Short-Term,High
+889,35,0,"No Travel",Sales,8,2,Marketing,F,"Sales Executive",M,10377,4,1,16,13,4,2,2,Long-Term,High
+890,27,0,Rarely,"Research & Development",14,3,"Life Sciences",M,"Research Scientist",M,2235,1,1,9,9,1,2,3,Long-Term,Low
+891,54,0,Frequently,"Research & Development",1,4,"Life Sciences",F,"Manufacturing Director",D,10502,7,0,33,5,3,1,3,Medium-Term,High
+892,44,0,Rarely,"Research & Development",2,1,"Life Sciences",F,"Research Scientist",M,2011,1,0,10,10,4,3,4,Long-Term,Low
+893,19,1,"No Travel","Research & Development",10,3,Medical,F,"Research Scientist",S,1859,1,1,1,1,2,4,2,Short-Term,Low
+894,29,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Research Scientist",D,3760,1,0,3,3,4,3,3,Medium-Term,Medium
+895,54,0,Rarely,"Research & Development",3,3,"Life Sciences",M,"Research Director",M,17779,3,0,36,10,4,3,3,Long-Term,High
+896,31,0,Rarely,"Research & Development",11,2,Medical,M,"Healthcare Representative",M,6833,1,1,6,6,1,2,3,Medium-Term,Medium
+897,31,0,Rarely,"Research & Development",24,3,Medical,F,"Healthcare Representative",S,6812,1,0,10,10,1,3,2,Long-Term,Medium
+898,59,0,Rarely,Sales,3,3,"Life Sciences",F,"Sales Executive",S,5171,5,0,13,6,4,3,2,Medium-Term,Medium
+899,43,0,Rarely,"Research & Development",3,3,"Life Sciences",M,"Research Director",M,19509,3,0,25,8,4,3,1,Long-Term,High
+900,49,0,Rarely,"Research & Development",4,2,Medical,M,Manager,M,18711,2,0,23,1,3,4,2,Short-Term,High
+901,36,0,Frequently,"Research & Development",3,3,"Technical Degree",M,"Research Scientist",M,3692,1,0,12,11,2,2,3,Long-Term,Medium
+902,48,0,Rarely,"Research & Development",2,2,"Technical Degree",M,"Laboratory Technician",S,2559,5,0,7,1,2,2,4,Short-Term,Low
+903,27,0,Rarely,"Research & Development",4,2,"Life Sciences",M,"Research Scientist",D,2517,1,0,5,5,3,3,3,Medium-Term,Low
+904,29,0,Rarely,"Research & Development",7,3,"Life Sciences",M,"Healthcare Representative",D,6623,1,1,6,6,4,3,3,Medium-Term,Medium
+905,48,0,Rarely,"Research & Development",1,3,"Life Sciences",M,"Research Director",S,18265,6,0,25,1,4,4,2,Short-Term,High
+906,29,0,Rarely,"Research & Development",1,3,"Life Sciences",F,"Research Director",D,16124,3,0,9,7,4,2,2,Medium-Term,High
+907,34,0,Rarely,"Research & Development",20,3,"Technical Degree",F,"Research Scientist",M,2585,0,0,2,1,3,2,4,Short-Term,Low
+908,44,0,Rarely,Sales,5,3,Marketing,M,Manager,M,18213,7,0,26,22,2,3,3,Long-Term,High
+909,33,0,Rarely,Sales,10,5,Marketing,M,"Sales Executive",D,8380,0,1,10,9,3,3,4,Long-Term,High
+910,19,0,Rarely,"Research & Development",25,3,"Life Sciences",F,"Research Scientist",S,2994,1,1,1,1,4,3,4,Short-Term,Low
+911,23,0,Rarely,"Research & Development",1,2,"Life Sciences",M,"Research Scientist",M,1223,1,0,1,1,3,3,3,Short-Term,Low
+912,25,1,Frequently,Sales,24,1,"Life Sciences",M,"Sales Representative",S,1118,1,1,1,1,4,3,1,Short-Term,Low
+913,26,0,Rarely,"Research & Development",4,2,"Life Sciences",M,"Research Scientist",S,2875,1,1,8,8,4,2,3,Long-Term,Low
+914,45,1,Rarely,Sales,2,3,Marketing,F,Manager,S,18824,2,1,26,24,2,3,1,Long-Term,High
+915,55,0,"No Travel","Research & Development",8,1,Medical,M,"Healthcare Representative",D,13577,1,1,34,33,2,3,2,Long-Term,High
+916,21,1,Frequently,"Research & Development",10,2,"Life Sciences",F,"Laboratory Technician",S,2625,1,0,2,2,3,1,2,Short-Term,Low
+917,46,0,Rarely,Sales,4,2,Marketing,F,Manager,M,18789,2,0,26,11,2,3,2,Long-Term,High
+918,34,0,Rarely,Sales,2,3,Marketing,F,"Sales Executive",S,4538,0,1,4,3,1,3,3,Medium-Term,Medium
+919,51,0,Frequently,Sales,9,3,"Life Sciences",M,Manager,D,19509,4,1,31,29,2,2,3,Long-Term,High
+920,59,0,Rarely,"Research & Development",18,4,Medical,M,"Manufacturing Director",S,10512,6,0,25,9,4,2,3,Long-Term,High
+921,34,0,Frequently,"Research & Development",19,3,Medical,F,"Laboratory Technician",D,4444,4,0,15,11,2,4,3,Long-Term,Medium
+922,28,0,Frequently,"Research & Development",1,4,Medical,M,"Laboratory Technician",S,2154,0,1,5,4,3,2,3,Medium-Term,Low
+923,44,0,Rarely,"Research & Development",4,2,"Life Sciences",M,Manager,D,19190,1,0,26,25,1,2,4,Long-Term,High
+924,34,0,Frequently,"Human Resources",11,3,"Life Sciences",M,"Human Resources",M,4490,4,0,14,10,2,4,2,Long-Term,Medium
+925,35,0,Rarely,"Research & Development",6,1,"Life Sciences",M,"Research Scientist",M,3506,0,1,4,3,3,3,3,Medium-Term,Medium
+926,42,0,Rarely,"Research & Development",7,4,Medical,F,"Research Scientist",M,2372,6,1,18,1,2,3,4,Short-Term,Low
+927,43,0,Rarely,Sales,4,4,Marketing,F,"Sales Executive",S,10231,3,0,23,21,4,4,2,Long-Term,High
+928,36,0,Rarely,"Research & Development",2,4,"Life Sciences",F,"Manufacturing Director",S,5410,9,1,18,16,2,3,3,Long-Term,Medium
+929,44,1,Rarely,"Research & Development",15,3,Medical,F,"Healthcare Representative",M,7978,1,0,10,10,4,3,3,Long-Term,Medium
+930,28,0,Frequently,"Research & Development",2,3,"Life Sciences",M,"Laboratory Technician",M,3867,1,1,2,2,4,3,2,Short-Term,Medium
+931,51,0,Frequently,"Research & Development",6,2,Medical,F,"Laboratory Technician",S,2838,0,0,8,7,3,2,2,Medium-Term,Low
+932,30,0,"No Travel","Research & Development",9,2,Medical,F,"Manufacturing Director",S,4695,7,1,10,8,3,3,3,Long-Term,Medium
+933,29,1,Rarely,"Research & Development",7,3,"Technical Degree",F,"Laboratory Technician",D,3339,3,1,10,7,3,3,3,Medium-Term,Medium
+934,28,0,Rarely,"Research & Development",1,3,"Technical Degree",M,"Research Scientist",S,2080,2,0,5,3,1,2,3,Medium-Term,Low
+935,25,0,Rarely,"Research & Development",1,3,Medical,F,"Research Scientist",S,2096,1,0,2,2,2,2,3,Short-Term,Low
+936,32,0,Rarely,Sales,8,3,Medical,M,"Sales Executive",M,6209,1,0,10,10,4,4,4,Long-Term,Medium
+937,45,0,Frequently,"Research & Development",25,3,Medical,F,Manager,S,18061,3,0,22,0,2,3,3,Short-Term,High
+938,39,0,Rarely,"Research & Development",13,4,Medical,F,Manager,D,17123,6,1,21,19,2,3,2,Long-Term,High
+939,58,0,Rarely,"Research & Development",23,4,"Life Sciences",M,"Research Scientist",D,2372,1,0,2,2,3,3,3,Short-Term,Low
+940,32,1,Rarely,"Research & Development",7,2,"Life Sciences",M,"Laboratory Technician",M,4883,1,0,10,10,3,3,3,Long-Term,Medium
+941,39,1,Rarely,"Research & Development",23,3,Medical,M,"Research Scientist",S,3904,0,0,6,5,1,3,3,Medium-Term,Medium
+942,30,0,Rarely,"Research & Development",6,3,"Technical Degree",F,"Laboratory Technician",M,4627,0,0,10,9,4,3,2,Long-Term,Medium
+943,36,0,Rarely,"Research & Development",10,4,"Technical Degree",F,"Healthcare Representative",M,7094,3,0,10,7,3,3,3,Medium-Term,Medium
+944,46,0,Rarely,"Human Resources",1,2,"Life Sciences",F,"Human Resources",S,3423,6,0,10,7,1,4,3,Medium-Term,Medium
+945,28,0,"No Travel","Research & Development",1,3,"Life Sciences",F,"Laboratory Technician",M,6674,0,0,10,9,4,3,1,Long-Term,Medium
+946,50,0,Rarely,"Research & Development",28,3,"Life Sciences",F,"Research Director",M,16880,4,1,25,3,1,3,3,Medium-Term,High
+947,40,1,Rarely,Sales,25,4,Marketing,M,"Sales Executive",S,9094,2,1,9,5,2,3,2,Medium-Term,High
+948,52,1,Rarely,Sales,5,3,"Life Sciences",M,"Sales Executive",S,8446,9,1,10,8,2,2,3,Long-Term,High
+949,30,0,Rarely,"Research & Development",17,4,Medical,F,Manager,M,11916,1,1,9,9,1,3,3,Long-Term,High
+950,39,0,Rarely,"Research & Development",18,2,"Life Sciences",M,"Manufacturing Director",S,4534,0,0,9,8,3,3,3,Long-Term,Medium
+951,31,0,"No Travel",Sales,2,4,"Life Sciences",F,"Sales Executive",D,9852,1,1,10,10,3,2,3,Long-Term,High
+952,41,0,"No Travel",Sales,10,2,Medical,M,"Sales Executive",S,6151,1,0,19,19,2,3,1,Long-Term,Medium
+953,31,1,Frequently,Sales,1,3,"Life Sciences",F,"Sales Representative",S,2302,1,1,3,3,2,4,3,Medium-Term,Low
+954,44,1,Rarely,"Research & Development",3,3,"Life Sciences",M,"Laboratory Technician",M,2362,4,0,10,3,1,4,3,Medium-Term,Low
+955,42,0,"No Travel","Research & Development",2,1,"Life Sciences",M,Manager,M,17861,0,1,21,20,3,2,3,Long-Term,High
+956,55,0,Rarely,"Research & Development",2,2,Medical,F,Manager,M,19187,4,0,23,19,3,3,1,Long-Term,High
+957,56,0,Rarely,"Human Resources",8,4,"Life Sciences",M,Manager,S,19509,6,0,36,7,2,3,3,Medium-Term,High
+958,40,0,"No Travel","Research & Development",16,2,"Life Sciences",M,"Research Scientist",D,3544,9,0,6,4,3,3,3,Medium-Term,Medium
+959,34,0,Rarely,"Research & Development",9,3,"Life Sciences",M,"Healthcare Representative",D,8500,0,0,10,9,4,2,3,Long-Term,High
+960,40,0,Rarely,"Research & Development",2,3,"Life Sciences",M,"Research Scientist",S,4661,1,0,9,9,4,3,3,Long-Term,Medium
+961,41,0,Frequently,Sales,1,3,Marketing,F,"Sales Executive",D,4103,0,0,10,9,1,3,3,Long-Term,Medium
+962,35,0,Frequently,"Research & Development",4,4,"Life Sciences",M,"Research Scientist",S,4249,1,1,9,9,3,3,3,Long-Term,Medium
+963,51,0,Rarely,"Human Resources",5,3,"Life Sciences",M,Manager,D,14026,1,1,33,33,2,3,3,Long-Term,High
+964,38,0,Rarely,Sales,2,2,"Life Sciences",F,"Sales Executive",D,6893,3,0,11,7,1,3,3,Medium-Term,Medium
+965,34,0,Rarely,Sales,15,2,Medical,F,"Sales Executive",S,6125,1,0,10,10,1,4,3,Long-Term,Medium
+966,25,0,Rarely,"Research & Development",19,1,Medical,M,"Laboratory Technician",M,3669,3,0,7,3,4,2,3,Medium-Term,Medium
+967,58,1,Rarely,"Research & Development",7,4,Medical,F,"Manufacturing Director",M,10008,7,1,31,10,1,2,2,Long-Term,High
+968,40,0,Rarely,"Research & Development",1,4,"Life Sciences",M,"Laboratory Technician",M,2387,3,0,7,4,2,3,3,Medium-Term,Low
+969,36,0,Frequently,Sales,7,3,Marketing,F,"Sales Executive",M,4639,2,0,17,15,1,2,4,Long-Term,Medium
+970,48,0,Rarely,"Research & Development",4,3,"Life Sciences",M,"Manufacturing Director",S,7898,1,0,11,10,4,3,3,Long-Term,Medium
+971,27,0,Rarely,Sales,11,3,Medical,F,"Sales Representative",M,2534,8,0,5,1,4,3,4,Short-Term,Low
+972,51,0,Rarely,"Research & Development",11,2,"Technical Degree",F,"Manufacturing Director",S,13142,3,0,29,5,2,2,2,Medium-Term,High
+973,18,0,"No Travel","Research & Development",1,3,"Life Sciences",F,"Laboratory Technician",S,1611,1,0,0,0,4,4,3,Short-Term,Low
+974,35,0,Rarely,"Research & Development",1,3,Medical,F,"Laboratory Technician",M,5363,0,0,10,9,4,3,2,Long-Term,Medium
+975,27,0,Frequently,Sales,2,1,"Life Sciences",M,"Sales Executive",S,5071,3,0,8,6,4,3,1,Medium-Term,Medium
+976,55,1,Rarely,Sales,13,4,Marketing,M,"Sales Executive",S,13695,6,1,24,19,3,2,4,Long-Term,High
+977,56,0,Rarely,"Research & Development",23,3,"Life Sciences",M,"Manufacturing Director",M,13402,4,1,33,19,2,3,3,Long-Term,High
+978,34,0,"No Travel","Research & Development",26,1,"Technical Degree",F,"Research Scientist",D,2029,1,0,5,5,3,3,2,Medium-Term,Low
+979,40,0,Rarely,"Research & Development",2,1,Medical,F,"Healthcare Representative",D,6377,5,0,15,12,3,3,4,Long-Term,Medium
+980,34,0,Rarely,"Research & Development",29,3,Medical,M,"Laboratory Technician",M,5429,4,0,10,8,3,3,3,Long-Term,Medium
+981,31,1,Frequently,Sales,2,3,"Life Sciences",F,"Sales Representative",S,2785,7,0,3,1,4,4,2,Short-Term,Low
+982,35,1,Frequently,Sales,18,4,Marketing,F,"Sales Executive",M,4614,0,1,5,4,3,2,3,Medium-Term,Medium
+983,38,0,Frequently,"Research & Development",7,3,"Life Sciences",M,"Research Scientist",D,2610,1,0,4,4,3,3,4,Medium-Term,Low
+984,34,0,Rarely,"Research & Development",2,4,"Technical Degree",F,"Healthcare Representative",S,6687,1,0,14,14,4,4,3,Long-Term,Medium
+985,28,0,Rarely,Sales,26,3,"Life Sciences",M,"Sales Executive",M,4724,1,0,5,5,1,3,2,Medium-Term,Medium
+986,31,1,Rarely,"Research & Development",22,4,Medical,M,"Manufacturing Director",M,6179,1,1,10,10,3,2,3,Long-Term,Medium
+987,39,0,Rarely,Sales,21,4,"Life Sciences",M,"Sales Executive",M,6120,3,1,8,5,4,4,2,Medium-Term,Medium
+988,51,0,Frequently,Sales,2,3,Marketing,M,"Sales Executive",M,10596,2,0,14,4,2,3,3,Medium-Term,High
+989,41,0,Frequently,"Research & Development",22,3,"Life Sciences",F,"Research Scientist",D,5467,3,1,12,6,4,2,3,Medium-Term,Medium
+990,37,0,Rarely,"Research & Development",4,1,"Life Sciences",M,"Research Scientist",M,2996,7,1,8,6,3,3,3,Medium-Term,Low
+991,33,0,Frequently,Sales,5,1,"Life Sciences",M,"Sales Executive",M,9998,6,0,8,5,4,4,3,Medium-Term,High
+992,32,0,Rarely,Sales,2,1,Marketing,M,"Sales Executive",M,4078,0,1,4,3,2,2,3,Medium-Term,Medium
+993,39,0,"No Travel","Research & Development",25,2,"Life Sciences",M,"Healthcare Representative",M,10920,3,0,13,6,3,3,3,Medium-Term,High
+994,25,0,Rarely,Sales,18,1,"Life Sciences",M,"Sales Executive",M,6232,2,0,6,3,3,2,4,Medium-Term,Medium
+995,52,0,Frequently,"Research & Development",28,2,Medical,F,"Manufacturing Director",M,13247,2,1,24,5,3,2,4,Medium-Term,High
+996,43,0,Rarely,"Research & Development",6,3,Medical,F,"Research Scientist",S,4081,1,1,20,20,3,1,2,Long-Term,Medium
+997,27,0,Rarely,Sales,10,3,Marketing,F,"Sales Executive",M,5769,1,1,6,6,4,3,2,Medium-Term,Medium
+998,27,1,Rarely,"Research & Development",17,4,"Life Sciences",F,"Research Scientist",S,2394,1,1,8,8,3,3,3,Long-Term,Low
+999,26,0,Rarely,"Research & Development",2,1,Medical,M,"Research Scientist",S,3904,0,0,5,4,4,3,2,Medium-Term,Medium
+1000,42,0,Rarely,"Human Resources",10,3,"Human Resources",F,Manager,M,16799,0,0,21,20,1,3,3,Long-Term,High
